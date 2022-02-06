@@ -46,6 +46,5 @@ def _logs(filename,service, term):
     # Sort the List
     results = sorted(results)
 
-
     return results
     # print(x)
