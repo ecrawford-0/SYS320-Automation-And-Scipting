@@ -1,12 +1,22 @@
 # File to traverse a given directory and its subdir and retrieve all the files
 
-import os, sys
+import os, sys, argparse
+
+# parser
+parser = argparse.ArgumentParser(
+    description="Traverses a directory and builds a forensic body file",
+    epilog="Developed by Emily Crawford 2022"
+)
+
+# add argument to pass to the fs.py program
+parser.add_argument("-d", "--directory", required="True", help="Directory that you want to traverse")
+
+# Parse the arguments
+args = parser.parse_args()
+rootdir = args.directory
 
 # Get the information from the commandline
 # print(sys.argv)
-
-# Directory to traverse
-rootdir = sys.argv[1]
 
 # print (rootdir)
 
