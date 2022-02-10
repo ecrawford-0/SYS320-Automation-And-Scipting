@@ -1,15 +1,24 @@
 # File to traverse a given directory and its subdir and retrieve all the files
+import os, argparse, sys, re, yaml
 
-import os, sys, argparse
+# Open the yaml file
+try:
+    with open('attacks.yaml', 'r') as yf:
+        keywords = yaml.safe_load(yf)
+except EnvironmentError as e:
+    print(e.strerror)
+
 
 # parser
 parser = argparse.ArgumentParser(
-    description="Traverses a directory and builds a forensic body file",
+    description="Traverses a directory and finds attacks or attempted attacks in web logs",
     epilog="Developed by Emily Crawford 2022"
 )
 
 # add argument to pass to the fs.py program
-parser.add_argument("-d", "--directory", required="True", help="Directory that you want to traverse")
+parser.add_argument("-d", "--directory", required="True", help="Directory of the weblogs to look through")
+parser.add_argument("-s", "--searchFile", required="True", help="The YAML book of keywords to search through the logs with")
+
 
 # Parse the arguments
 args = parser.parse_args()
@@ -17,12 +26,11 @@ rootdir = args.directory
 
 # Get the information from the commandline
 # print(sys.argv)
-
 # print (rootdir)
 
 # In our story, we will traverse a directory
 # Check if the argument is a directory
-# Check if the argument is a directory
+
 if not os.path.isdir(rootdir):
     print("Invalid directory => {}".format(rootdir))
     exit()
@@ -73,6 +81,8 @@ def statFile(toStat):
     crtime = i[9]
 
     print("0|{}|{}|{}|{}|{}|{}|{}|{}|{}|{}".format(toStat, mode, inode, uid, guid, fsize, atime, mtime, ctime, crtime))
+
+
 
 # for each file in the directory, print out the stats
 for eachFile in fList:
