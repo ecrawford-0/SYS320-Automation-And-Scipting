@@ -9,18 +9,19 @@ parser = argparse.ArgumentParser(
 
 # add argument to pass to the fs.py program
 parser.add_argument("-d", "--directory", required="True", help="Directory of the weblogs to look through")
-parser.add_argument("-s", "--searchFile", required="True", help="The YAML book of keywords to search through the logs with")
+parser.add_argument("-s", "--searchTerm", required="True", help="The search term from the yaml file")
 
 
 # Parse the arguments
 args = parser.parse_args()
+# variable to store the rootdirectory of weblog
 rootdir = args.directory
-searchFile = args.searchFile
+# variable to store serachterm of attack looking through
+searchTerm = args.searchTerm
 
 
 # traverse the directory
 # Check if the argument is a directory
-
 if not os.path.isdir(rootdir):
     print("Invalid directory => {}".format(rootdir))
     exit()
@@ -31,14 +32,31 @@ fList = []
 # Crawl through the provided directory
 for root, subfolders, filenames in os.walk(rootdir):
     for f in filenames:
-        # print(root + "/" + f)
+        # get the filepath of the file
         fileList = root + "/" + f
-        # print(fileList)
+        # add filepath to the list
         fList.append(fileList)
 
+# Start looking through each log file in the directory
 for eachFile in fList:
-    # print(eachFile)
-    logCheck._logs(eachFile,searchFile)
 
+    print("Checking log: " + eachFile + " for: " + searchTerm)
 
+    # check each for the specified attacks
+    check= logCheck._logs(eachFile,searchTerm)
 
+    # create a blank list to put results of search
+    results = []
+
+    # loop through and just grab the URL, status code, and bytes returned
+    for eachFound in check:
+        # Split results on space
+        attack_check = eachFound.split(" ")
+        results.append( "\t URL: " + attack_check[6] + " Status Code: " + attack_check[8] + " Bytes Returned: " + attack_check[9])
+
+    # remove duplicates
+    results = set(results)
+
+    for eachValue in results:
+        # print everything out
+        print(eachValue)
