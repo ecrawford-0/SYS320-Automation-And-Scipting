@@ -52,17 +52,16 @@ for eachFile in fList:
 
     print("Searching for: " + searchTerm + " attacks in " + eachFile)
     # get the keywords from yaml file
-    keywords.append(yamlReader.logOpen(searchTerm))
+    keywords = yamlReader.logOpen(searchTerm)
 
-    print("The Keywords: ")
-    print(keywords)
 
     # load the csv file
     results = csvReader.logOpen(eachFile,keywords)
+    print (results)
     # do the searching
 
     # create list for the results
-    results = []
+
 
 
 
