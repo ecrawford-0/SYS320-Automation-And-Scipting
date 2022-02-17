@@ -1,0 +1,5 @@
+---
+query_reg:
+  security_packages: ".*HKLM\\\\SYSTEM\\\\CurrentControlSet\\\\Control\\\\Lsa\\\\\\.*Security Packages.*"
+  notification_packages: ".*HKLM\\\\SYSTEM\\\\CurrentControlSet\\\\Control\\\\Lsa\\\\.*Notification Packages.*"
+  authentication_packages: ".*HKLM\\\\SYSTEM\\\\CurrentControlSet\\\\Control\\\\Lsa\\\\.*Authentication Packages.*"

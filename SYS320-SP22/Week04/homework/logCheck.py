@@ -21,6 +21,8 @@ def _logs(logFile,searchTerm):
                 # read in the file and save it to a variable
                 contents = f.readlines()
 
+
+
             # List to store results
             results = []
 
@@ -40,7 +42,7 @@ def _logs(logFile,searchTerm):
             # Check to see if there are results
             if len(results) == 0:
                 print("No Results")
-                sys.exit(1)
+
 
             # Sort the List
             results = sorted(results)
