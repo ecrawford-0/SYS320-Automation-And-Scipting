@@ -43,50 +43,29 @@ for root, subfolders, filenames in os.walk(rootdir):
         # add filepath to the list
         fList.append(fileList)
 
-
 # Start looking through each log file in the directory
-
-
 keywords = []
 for eachFile in fList:
 
-    print("Searching for: " + searchTerm + " attacks in " + eachFile)
     # get the keywords from yaml file
     keywords = yamlReader.logOpen(searchTerm)
 
+    # load the csv file, and search for matches, store matches in results
+    results = csvReader.logOpen(eachFile,keywords[1:])
 
-    # load the csv file
-    results = csvReader.logOpen(eachFile,keywords)
-    print (results)
-    # do the searching
+    # print out results if there was a match found
+    if len(results) > 0:
+        for results in results:
+            print(
+                """
 
-    # create list for the results
+{} detected from file {} :
 
-
-
-
-#print(len(found))
-    #for eachValue in found:
-     #   print(eachValue)
-    '''
-    print("Checking log: " + eachFile + " for: " + searchTerm)
-
-    # check each for the specified attacks
-    check= logCheck._logs(eachFile,searchTerm)
-
-    # create a blank list to put results of search
-    results = []
-
-    # loop through and just grab the URL, status code, and bytes returned
-    for eachFound in check:
-        # Split results on space
-        attack_check = eachFound.split(" ")
-        results.append( "\t URL: " + attack_check[6] + " Status Code: " + attack_check[8] + " Bytes Returned: " + attack_check[9])
-
-    # remove duplicates
-    results = set(results)
-
-    for eachValue in results:
-        # print everything out
-        print(eachValue)
-    '''
+Rule Description: {}
+Arugment: {}
+Hostname: {}
+Name: {}
+Path: {}
+PID: {}
+Username: {}
+               """.format(searchTerm,eachFile, keywords[0], results[1],results[2], results[3],results[4],results[5],results[6]))

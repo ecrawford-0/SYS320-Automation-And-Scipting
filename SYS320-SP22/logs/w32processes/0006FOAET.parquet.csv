@@ -1,0 +1,140 @@
+,arguments,hostname,name,path,pid,username
+0,c:\windows\system32\svchost.exe -k appmodel -p -s StateRepository,0006FOAET,svchost.exe,c:\windows\system32,4256,NT AUTHORITY\SYSTEM
+1,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s Dhcp,0006FOAET,svchost.exe,c:\windows\system32,1416,NT AUTHORITY\SYSTEM
+2,C:\Windows\system32\lsass.exe,0006FOAET,lsass.exe,C:\Windows\system32,1976,NT AUTHORITY\SYSTEM
+3,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s WinHttpAutoProxySvc,0006FOAET,svchost.exe,c:\windows\system32,6212,NT AUTHORITY\SYSTEM
+4,c:\windows\system32\svchost.exe -k rpcss -p,0006FOAET,svchost.exe,c:\windows\system32,1200,NT AUTHORITY\SYSTEM
+5,c:\windows\system32\svchost.exe -k localservice -p -s FontCache,0006FOAET,svchost.exe,c:\windows\system32,6468,NT AUTHORITY\SYSTEM
+6,C:\Windows\system32\svchost.exe -k imgsvc,0006FOAET,svchost.exe,C:\Windows\system32,2168,NT AUTHORITY\SYSTEM
+7,c:\windows\system32\svchost.exe -k localservice -p -s nsi,0006FOAET,svchost.exe,c:\windows\system32,980,NT AUTHORITY\SYSTEM
+8,c:\windows\system32\svchost.exe -k netsvcs -p -s lfsvc,0006FOAET,svchost.exe,c:\windows\system32,5476,NT AUTHORITY\SYSTEM
+9,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",0006FOAET,MFEAvSvc.exe,C:\Program Files\McAfee\MfeAV,1224,iri.jone4
+10,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s PcaSvc,0006FOAET,svchost.exe,c:\windows\system32,1220,NT AUTHORITY\SYSTEM
+12,,0006FOAET,SecurityHealthService.exe,,188,NT AUTHORITY\SYSTEM
+13,c:\windows\system32\svchost.exe -k localservice -p -s LicenseManager,0006FOAET,svchost.exe,c:\windows\system32,6480,NT AUTHORITY\SYSTEM
+14,C:\Windows\system32\svchost.exe -k LocalService -p,0006FOAET,svchost.exe,C:\Windows\system32,4168,NT AUTHORITY\SYSTEM
+15,c:\windows\system32\svchost.exe -k netsvcs,0006FOAET,svchost.exe,c:\windows\system32,2240,NT AUTHORITY\SYSTEM
+16,"""ctfmon.exe""",0006FOAET,ctfmon.exe,C:\Windows\system32,5084,NT AUTHORITY\SYSTEM
+17,c:\windows\system32\svchost.exe -k netsvcs -p -s iphlpsvc,0006FOAET,svchost.exe,c:\windows\system32,1364,NT AUTHORITY\SYSTEM
+18,"""C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=2685998191293934672 --lang=en-GB --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2685998191293934672 --renderer-client-id=12 --mojo-platform-channel-handle=4360 /prefetch:1",0006FOAET,opera.exe,C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52,300,iri.jone4
+19,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s EventLog,0006FOAET,svchost.exe,c:\windows\system32,4784,NT AUTHORITY\SYSTEM
+20,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",0006FOAET,MMSSHOST.EXE,C:\Program Files\Common Files\McAfee\MMSSHost,2264,iri.jone4
+21,,0006FOAET,System,,1152,NT AUTHORITY\SYSTEM
+22,c:\windows\system32\svchost.exe -k localservice -p -s SstpSvc,0006FOAET,svchost.exe,c:\windows\system32,632,NT AUTHORITY\SYSTEM
+23,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",0006FOAET,McPvTray.exe,C:\Program Files\McAfee\MAT,5180,iri.jone4
+24,c:\windows\system32\svchost.exe -k netsvcs -p -s LanmanServer,0006FOAET,svchost.exe,c:\windows\system32,3080,NT AUTHORITY\SYSTEM
+26,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s NcbService,0006FOAET,svchost.exe,c:\windows\system32,4132,NT AUTHORITY\SYSTEM
+27,C:\Windows\System32\RuntimeBroker.exe -Embedding,0006FOAET,RuntimeBroker.exe,C:\Windows\System32,1932,NT AUTHORITY\SYSTEM
+28,C:\Windows\system32\SettingSyncHost.exe -Embedding,0006FOAET,SettingSyncHost.exe,C:\Windows\system32,4772,NT AUTHORITY\SYSTEM
+29,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s wscsvc,0006FOAET,svchost.exe,c:\windows\system32,4716,NT AUTHORITY\SYSTEM
+30,"""C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=16451249972883912486 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16451249972883912486 --renderer-client-id=4 --mojo-platform-channel-handle=3140 /prefetch:1",0006FOAET,opera.exe,C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52,6113,jasmin.washin
+31,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,0006FOAET,ModuleCoreService.exe,c:\program files\common files\mcafee\modulecore,5952,iri.jone4
+32,c:\windows\system32\svchost.exe -k netsvcs -p -s Themes,0006FOAET,svchost.exe,c:\windows\system32,1752,NT AUTHORITY\SYSTEM
+34,c:\windows\system32\svchost.exe -k netsvcs -p -s ProfSvc,0006FOAET,svchost.exe,c:\windows\system32,356,NT AUTHORITY\SYSTEM
+35,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TabletInputService,0006FOAET,svchost.exe,c:\windows\system32,4340,NT AUTHORITY\SYSTEM
+36,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",0006FOAET,mchost.exe,C:\Program Files\Common Files\McAfee\Platform\Core,5662,iri.jone4
+37,C:\Windows\System32\svchost.exe -k utcsvc -p,0006FOAET,svchost.exe,C:\Windows\System32,2296,NT AUTHORITY\SYSTEM
+38,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",0006FOAET,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,3476,NT AUTHORITY\SYSTEM
+39,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",0006FOAET,mcuicnt.exe,C:\Program Files\Common Files\mcafee\Platform,1860,iri.jone4
+40,c:\windows\system32\svchost.exe -k localservice -p -s EventSystem,0006FOAET,svchost.exe,c:\windows\system32,1316,NT AUTHORITY\SYSTEM
+41,"C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52\opera_crashreporter.exe --type=crashpad-handler /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler ""--database=C:\Users\iri.jone4\AppData\Roaming\Opera Software\Opera Stable\Crash Reports"" ""--crash-count-file=C:\Users\iri.jone4\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt"" --url=https://crashstats-collector.opera.com/collector/submit --annotation=channel=Stable --annotation=plat=Win64 --annotation=prod=OperaDesktop --annotation=ver=56.0.3051.52 --initial-client-data=0x238 0x304 0x30c 0x320 0x308 0x7ffb51313108 0x7ffb51313118 0x7ffb51313128",0006FOAET,opera_crashreporter.exe,C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52,5331,iri.jone4
+43,"""C:\Users\iri.jone4\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",0006FOAET,OneDrive.exe,C:\Users\iri.jone4\AppData\Local\Microsoft\OneDrive,6440,iri.jone4
+44,,0006FOAET,NisSrv.exe,,480,NT AUTHORITY\SYSTEM
+45,"""C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"" ",0006FOAET,jusched.exe,C:\Program Files (x86)\Common Files\Java\Java Update,4436,NT AUTHORITY\SYSTEM
+46,c:\windows\system32\svchost.exe -k localservice -p -s CDPSvc,0006FOAET,svchost.exe,c:\windows\system32,6156,NT AUTHORITY\SYSTEM
+47,"""C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=12376823585177401963 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=12376823585177401963 --renderer-client-id=7 --mojo-platform-channel-handle=2368 /prefetch:1",0006FOAET,opera.exe,C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52,956,jasmin.washin
+48,c:\windows\system32\svchost.exe -k networkservice -p -s LanmanWorkstation,0006FOAET,svchost.exe,c:\windows\system32,5120,NT AUTHORITY\SYSTEM
+49,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SensorService,0006FOAET,svchost.exe,c:\windows\system32,5204,NT AUTHORITY\SYSTEM
+51,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DsSvc,0006FOAET,svchost.exe,c:\windows\system32,6356,NT AUTHORITY\SYSTEM
+52,c:\windows\system32\svchost.exe -k localservice -p -s WebClient,0006FOAET,svchost.exe,c:\windows\system32,2572,NT AUTHORITY\SYSTEM
+53,c:\windows\system32\svchost.exe -k netsvcs -p -s BITS,0006FOAET,svchost.exe,c:\windows\system32,3156,NT AUTHORITY\SYSTEM
+54,c:\windows\system32\svchost.exe -k dcomlaunch -p -s LSM,0006FOAET,svchost.exe,c:\windows\system32,4780,NT AUTHORITY\SYSTEM
+55,c:\windows\system32\svchost.exe -k networkservice -p -s Dnscache,0006FOAET,svchost.exe,c:\windows\system32,3868,NT AUTHORITY\SYSTEM
+56,"""C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe"" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca",0006FOAET,LockApp.exe,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy,3340,NT AUTHORITY\SYSTEM
+57,c:\windows\system32\svchost.exe -k localservice -p -s BthAvctpSvc,0006FOAET,svchost.exe,c:\windows\system32,1696,NT AUTHORITY\SYSTEM
+58,c:\windows\system32\svchost.exe -k unistacksvcgroup -s CDPUserSvc,0006FOAET,svchost.exe,c:\windows\system32,5660,NT AUTHORITY\SYSTEM
+60,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",0006FOAET,McAMTaskAgent.exe,C:\Program Files\Common Files\McAfee\TaskScheduler,1779,iri.jone4
+62,"""C:\Program Files\CyberGhost 6\CyberGhost.Service.exe""",0006FOAET,CyberGhost.Service.exe,C:\Program Files\CyberGhost 6,5714,jasmin.washin
+63,,0006FOAET,services.exe,,6332,NT AUTHORITY\SYSTEM
+64,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},0006FOAET,taskhostw.exe,c:\windows\system32,5656,NT AUTHORITY\SYSTEM
+67,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",0006FOAET,UIHost.exe,C:\Program Files\McAfee\WebAdvisor,2814,iri.jone4
+68,C:\Windows\system32\svchost.exe -k DcomLaunch -p,0006FOAET,svchost.exe,C:\Windows\system32,3832,NT AUTHORITY\SYSTEM
+69,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",0006FOAET,PEFService.exe,C:\Program Files\Common Files\McAfee\PEF\CORE,810,iri.jone4
+70,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",0006FOAET,ServiceHost.exe,C:\Program Files\McAfee\WebAdvisor,1116,iri.jone4
+71,C:\Windows\System32\WinLogon.exe -SpecialSession,0006FOAET,WinLogon.exe,C:\Windows\System32,5836,NT AUTHORITY\SYSTEM
+72,"""C:\Users\iri.jone4\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",0006FOAET,mcafee_trial_setup_433.0207.3919_key.exe,C:\Users\iri.jone4\AppData\Local\Temp\scoped_dir9616_4071,5594,iri.jone4
+73,C:\Windows\system32\svchost.exe -k SDRSVC,0006FOAET,svchost.exe,C:\Windows\system32,3804,NT AUTHORITY\SYSTEM
+74,\??\C:\Windows\system32\conhost.exe 0x4,0006FOAET,conhost.exe,C:\Windows\system32,1980,NT AUTHORITY\SYSTEM
+75,C:\Windows\Explorer.EXE,0006FOAET,Explorer.EXE,C:\Windows,1744,NT AUTHORITY\SYSTEM
+76,c:\windows\system32\svchost.exe -k unistacksvcgroup -s WpnUserService,0006FOAET,svchost.exe,c:\windows\system32,5592,NT AUTHORITY\SYSTEM
+77,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s AudioEndpointBuilder,0006FOAET,svchost.exe,c:\windows\system32,4116,NT AUTHORITY\SYSTEM
+78,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts,0006FOAET,svchost.exe,C:\Windows\System32,3204,NT AUTHORITY\SYSTEM
+79,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",0006FOAET,SearchUI.exe,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,2820,NT AUTHORITY\SYSTEM
+80,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p,0006FOAET,svchost.exe,C:\Windows\system32,4652,NT AUTHORITY\SYSTEM
+81,c:\windows\system32\svchost.exe -k networkservice -p -s TapiSrv,0006FOAET,svchost.exe,c:\windows\system32,3796,NT AUTHORITY\SYSTEM
+82,"""dwm.exe""",0006FOAET,dwm.exe,C:\Windows\System32,3652,NT AUTHORITY\SYSTEM
+84,c:\windows\system32\svchost.exe -k localservice -p -s netprofm,0006FOAET,svchost.exe,c:\windows\system32,5928,NT AUTHORITY\SYSTEM
+88,,0006FOAET,Memory Compression,,400,NT AUTHORITY\SYSTEM
+89,c:\windows\system32\svchost.exe -k netsvcs -p -s TokenBroker,0006FOAET,svchost.exe,c:\windows\system32,6360,NT AUTHORITY\SYSTEM
+91,C:\Windows\System32\spoolsv.exe,0006FOAET,spoolsv.exe,C:\Windows\System32,1676,NT AUTHORITY\SYSTEM
+92,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TrkWks,0006FOAET,svchost.exe,c:\windows\system32,2624,NT AUTHORITY\SYSTEM
+93,"""C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --start-maximized --ran-launcher",0006FOAET,opera.exe,C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52,1139,iri.jone4
+99,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p,0006FOAET,svchost.exe,C:\Windows\System32,940,NT AUTHORITY\SYSTEM
+102,,0006FOAET,svchost.exe,,1972,NT AUTHORITY\SYSTEM
+103,"""C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=6930244878569528683 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6930244878569528683 --renderer-client-id=3 --mojo-platform-channel-handle=2904 /prefetch:1",0006FOAET,opera.exe,C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52,5044,jasmin.washin
+105,"""C:\Windows\system32\SearchFilterHost.exe"" 0 736 740 748 8192 744 ",0006FOAET,SearchFilterHost.exe,C:\Windows\system32,3944,NT AUTHORITY\SYSTEM
+106,c:\windows\system32\svchost.exe -k localservicenonetwork -p -s DPS,0006FOAET,svchost.exe,c:\windows\system32,2012,NT AUTHORITY\SYSTEM
+107,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p,0006FOAET,svchost.exe,C:\Windows\system32,4448,NT AUTHORITY\SYSTEM
+108,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",0006FOAET,mcshield.exe,C:\Program Files\Common Files\McAfee\AMCore,1549,iri.jone4
+109,"""C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn\sqlservr.exe"" -sSQLEXPRESS",0006FOAET,sqlservr.exe,C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn,6255,jasmin.washin
+110,c:\windows\system32\svchost.exe -k netsvcs -p -s Appinfo,0006FOAET,svchost.exe,c:\windows\system32,5548,NT AUTHORITY\SYSTEM
+112,"""C:\Windows\system32\mspaint.exe"" ",0006FOAET,mspaint.exe,C:\Windows\system32,6112,svc_hh
+115,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",0006FOAET,ProtectedModuleHost.exe,C:\Program Files\Common Files\McAfee\ModuleCore,824,iri.jone4
+116,c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p -s SSDPSRV,0006FOAET,svchost.exe,c:\windows\system32,964,NT AUTHORITY\SYSTEM
+117,c:\windows\system32\svchost.exe -k unistacksvcgroup,0006FOAET,svchost.exe,c:\windows\system32,3972,NT AUTHORITY\SYSTEM
+118,C:\Windows\system32\SearchIndexer.exe /Embedding,0006FOAET,SearchIndexer.exe,C:\Windows\system32,1736,NT AUTHORITY\SYSTEM
+119,"""C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=gpu-process --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --gpu-preferences=KAAAAAAAAACAAwBAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --service-request-channel-token=7207758415534163028 --mojo-platform-channel-handle=1472 --ignored="" --type=renderer "" /prefetch:2",0006FOAET,opera.exe,C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52,5922,iri.jone4
+123,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,0006FOAET,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack,908,iri.jone4
+124,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s TimeBrokerSvc,0006FOAET,svchost.exe,c:\windows\system32,5696,NT AUTHORITY\SYSTEM
+127,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",0006FOAET,McApExe.exe,C:\Program Files\Common Files\McAfee\VSCore_18_6,2325,iri.jone4
+128,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",0006FOAET,modulecoreservice.exe,c:\program files\common files\mcafee\modulecore,6362,iri.jone4
+129,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",0006FOAET,McCSPServiceHost.exe,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,1854,iri.jone4
+132,"""fontdrvhost.exe""",0006FOAET,fontdrvhost.exe,C:\Windows\System32,1456,NT AUTHORITY\SYSTEM
+135,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SysMain,0006FOAET,svchost.exe,c:\windows\system32,3116,NT AUTHORITY\SYSTEM
+138,c:\windows\system32\svchost.exe -k dcomlaunch -p -s PlugPlay,0006FOAET,svchost.exe,c:\windows\system32,4224,NT AUTHORITY\SYSTEM
+140,c:\windows\system32\svchost.exe -k networkservice -p -s NlaSvc,0006FOAET,svchost.exe,c:\windows\system32,1852,NT AUTHORITY\SYSTEM
+143,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -s BTAGService,0006FOAET,svchost.exe,c:\windows\system32,3484,NT AUTHORITY\SYSTEM
+144,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",0006FOAET,McDiReg.exe,C:\ProgramData\McAfee\Direct,1787,iri.jone4
+145,c:\windows\system32\svchost.exe -k localservice -p -s bthserv,0006FOAET,svchost.exe,c:\windows\system32,1564,NT AUTHORITY\SYSTEM
+150,C:\Windows\system32\svchost.exe -k netsvcs -p -s wlidsvc,0006FOAET,svchost.exe,C:\Windows\system32,3036,NT AUTHORITY\SYSTEM
+151,c:\windows\system32\svchost.exe -k netsvcs -p -s ShellHWDetection,0006FOAET,svchost.exe,c:\windows\system32,4900,NT AUTHORITY\SYSTEM
+152,c:\windows\system32\svchost.exe -k netsvcs -p -s UserManager,0006FOAET,svchost.exe,c:\windows\system32,248,NT AUTHORITY\SYSTEM
+155,,0006FOAET,MsMpEng.exe,,5348,NT AUTHORITY\SYSTEM
+158,c:\windows\system32\svchost.exe -k netsvcs -p,0006FOAET,svchost.exe,c:\windows\system32,5484,NT AUTHORITY\SYSTEM
+161,"""C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=12376823585177401963 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=12376823585177401963 --renderer-client-id=7 --mojo-platform-channel-handle=2368 /prefetch:1",0006FOAET,opera.exe,C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52,2847,iri.jone4
+163,,0006FOAET,SgrmBroker.exe,,1644,NT AUTHORITY\SYSTEM
+164,,0006FOAET,csrss.exe,,6124,NT AUTHORITY\SYSTEM
+167,,0006FOAET,wininit.exe,,3436,NT AUTHORITY\SYSTEM
+171,"""C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --start-maximized --ran-launcher",0006FOAET,opera.exe,C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52,6433,jasmin.washin
+179,c:\windows\system32\svchost.exe -k netsvcs -p -s Winmgmt,0006FOAET,svchost.exe,c:\windows\system32,4048,NT AUTHORITY\SYSTEM
+183,"""C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=2685998191293934672 --lang=en-GB --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2685998191293934672 --renderer-client-id=12 --mojo-platform-channel-handle=4360 /prefetch:1",0006FOAET,opera.exe,C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52,827,jasmin.washin
+185,sihost.exe,0006FOAET,sihost.exe,c:\windows\system32,5744,NT AUTHORITY\SYSTEM
+186,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,0006FOAET,McDiReg.exe,C:\ProgramData\McAfee\Direct,4686,iri.jone4
+195,"""fontdrvhost.exe""",0006FOAET,fontdrvhost.exe,C:\Windows\system32,544,NT AUTHORITY\SYSTEM
+199,"C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52\opera_crashreporter.exe --type=crashpad-handler /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler ""--database=C:\Users\jasmin.washin\AppData\Roaming\Opera Software\Opera Stable\Crash Reports"" ""--crash-count-file=C:\Users\jasmin.washin\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt"" --url=https://crashstats-collector.opera.com/collector/submit --annotation=channel=Stable --annotation=plat=Win64 --annotation=prod=OperaDesktop --annotation=ver=56.0.3051.52 --initial-client-data=0x238 0x304 0x30c 0x320 0x308 0x7ffb51313108 0x7ffb51313118 0x7ffb51313128",0006FOAET,opera_crashreporter.exe,C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52,2799,jasmin.washin
+200,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DeviceAssociationService,0006FOAET,svchost.exe,c:\windows\system32,3928,NT AUTHORITY\SYSTEM
+201,c:\windows\system32\svchost.exe -k netsvcs -p -s WpnService,0006FOAET,svchost.exe,c:\windows\system32,1448,NT AUTHORITY\SYSTEM
+203,c:\windows\system32\svchost.exe -k localservice -p -s WdiServiceHost,0006FOAET,svchost.exe,c:\windows\system32,2900,NT AUTHORITY\SYSTEM
+205,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s StorSvc,0006FOAET,svchost.exe,c:\windows\system32,5140,NT AUTHORITY\SYSTEM
+209,C:\Windows\System32\svchost.exe -k NetworkService -p -s DoSvc,0006FOAET,svchost.exe,C:\Windows\System32,3368,NT AUTHORITY\SYSTEM
+210,c:\windows\system32\svchost.exe -k networkservice -p -s CryptSvc,0006FOAET,svchost.exe,c:\windows\system32,1336,NT AUTHORITY\SYSTEM
+212,"""C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=gpu-process --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --gpu-preferences=KAAAAAAAAACAAwBAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --service-request-channel-token=7207758415534163028 --mojo-platform-channel-handle=1472 --ignored="" --type=renderer "" /prefetch:2",0006FOAET,opera.exe,C:\Users\jasmin.washin\AppData\Local\Programs\Opera\56.0.3051.52,352,jasmin.washin
+214,C:\Windows\system32\ApplicationFrameHost.exe -Embedding,0006FOAET,ApplicationFrameHost.exe,C:\Windows\system32,5620,NT AUTHORITY\SYSTEM
+215,c:\windows\system32\svchost.exe -k netsvcs -p -s SENS,0006FOAET,svchost.exe,c:\windows\system32,5768,NT AUTHORITY\SYSTEM
+218,c:\windows\system32\svchost.exe -k netsvcs -p -s Schedule,0006FOAET,svchost.exe,c:\windows\system32,5480,NT AUTHORITY\SYSTEM
+221,"""C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=6930244878569528683 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6930244878569528683 --renderer-client-id=3 --mojo-platform-channel-handle=2904 /prefetch:1",0006FOAET,opera.exe,C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52,224,iri.jone4
+227,,0006FOAET,smss.exe,,3964,NT AUTHORITY\SYSTEM
+228,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F},0006FOAET,DllHost.exe,C:\Windows\system32,808,NT AUTHORITY\SYSTEM
+229,C:\Windows\system32\BtwRSupportService.exe,0006FOAET,BtwRSupportService.exe,C:\Windows\system32,5060,NT AUTHORITY\SYSTEM
+238,,0006FOAET,Registry,,4,NT AUTHORITY\SYSTEM
+241,"""C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=16451249972883912486 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16451249972883912486 --renderer-client-id=4 --mojo-platform-channel-handle=3140 /prefetch:1",0006FOAET,opera.exe,C:\Users\iri.jone4\AppData\Local\Programs\Opera\56.0.3051.52,2506,iri.jone4

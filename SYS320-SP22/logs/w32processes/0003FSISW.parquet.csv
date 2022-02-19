@@ -1,0 +1,68 @@
+,arguments,hostname,name,path,pid,username
+0,C:\Windows\system32\lsass.exe,0003FSISW,lsass.exe,C:\Windows\system32,5304,NT AUTHORITY\SYSTEM
+1,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",0003FSISW,McDiReg.exe,C:\ProgramData\McAfee\Direct,2792,kyl.sanders
+2,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",0003FSISW,mcshield.exe,C:\Program Files\Common Files\McAfee\AMCore,3470,kyl.sanders
+3,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",0003FSISW,modulecoreservice.exe,c:\program files\common files\mcafee\modulecore,663,kyl.sanders
+4,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",0003FSISW,MFEAvSvc.exe,C:\Program Files\McAfee\MfeAV,2282,kyl.sanders
+5,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",0003FSISW,McPvTray.exe,C:\Program Files\McAfee\MAT,4971,kyl.sanders
+6,C:\Windows\Explorer.EXE,0003FSISW,Explorer.EXE,C:\Windows,2796,NT AUTHORITY\SYSTEM
+7,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",0003FSISW,mcuicnt.exe,C:\Program Files\Common Files\mcafee\Platform,6216,kyl.sanders
+8,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,0003FSISW,svchost.exe,C:\Windows\system32,1864,NT AUTHORITY\SYSTEM
+10,C:\Windows\System32\VBoxService.exe,0003FSISW,VBoxService.exe,C:\Windows\System32,5192,NT AUTHORITY\SYSTEM
+11,"C:\Windows\System32\rundll32.exe C:\Windows\System32\drivers\netlgn.dll,execute",0003FSISW,rundll32.exe,C:\Windows\System32\rundll32.exe,4812,poppyturne23
+12,C:\Windows\System32\svchost.exe -k secsvcs,0003FSISW,svchost.exe,C:\Windows\System32,2136,NT AUTHORITY\SYSTEM
+13,"""C:\Windows\system32\SearchProtocolHost.exe"" Global\UsGthrFltPipeMssGthrPipe15_ Global\UsGthrCtrlFltPipeMssGthrPipe15 1 -2147483646 ""Software\Microsoft\Windows Search"" ""Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)"" ""C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc"" ""DownLevelDaemon"" ",0003FSISW,SearchProtocolHost.exe,C:\Windows\system32,4904,NT AUTHORITY\SYSTEM
+14,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,0003FSISW,ModuleCoreService.exe,c:\program files\common files\mcafee\modulecore,1707,kyl.sanders
+15,"""C:\Program Files\Windows Media Player\wmpnetwk.exe""",0003FSISW,wmpnetwk.exe,C:\Program Files\Windows Media Player,4988,NT AUTHORITY\SYSTEM
+16,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,0003FSISW,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack,3203,kyl.sanders
+17,\??\C:\Windows\system32\conhost.exe,0003FSISW,conhost.exe,C:\Windows\system32,92,NT AUTHORITY\SYSTEM
+18,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",0003FSISW,ServiceHost.exe,C:\Program Files\McAfee\WebAdvisor,4339,kyl.sanders
+19,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,0003FSISW,svchost.exe,C:\Windows\system32,5208,NT AUTHORITY\SYSTEM
+20,C:\Windows\system32\svchost.exe -k DcomLaunch,0003FSISW,svchost.exe,C:\Windows\system32,1592,NT AUTHORITY\SYSTEM
+21,"""C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe""",0003FSISW,vmware-usbarbitrator64.exe,C:\Program Files (x86)\Common Files\VMware\USB,3726,poppyturne23
+22,C:\Windows\system32\services.exe,0003FSISW,services.exe,C:\Windows\system32,1828,NT AUTHORITY\SYSTEM
+24,"""C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=6930244878569528683 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6930244878569528683 --renderer-client-id=3 --mojo-platform-channel-handle=2904 /prefetch:1",0003FSISW,opera.exe,C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52,6305,poppyturne23
+25,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",0003FSISW,PEFService.exe,C:\Program Files\Common Files\McAfee\PEF\CORE,257,kyl.sanders
+26,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",0003FSISW,McApExe.exe,C:\Program Files\Common Files\McAfee\VSCore_18_6,1118,kyl.sanders
+27,"""C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --start-maximized --ran-launcher",0003FSISW,opera.exe,C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52,5229,poppyturne23
+28,"""C:\Windows\system32\Dwm.exe""",0003FSISW,Dwm.exe,C:\Windows\system32,6252,NT AUTHORITY\SYSTEM
+29,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,0003FSISW,McDiReg.exe,C:\ProgramData\McAfee\Direct,5502,kyl.sanders
+30,\SystemRoot\System32\smss.exe,0003FSISW,smss.exe,\SystemRoot\System32,3536,NT AUTHORITY\SYSTEM
+33,wininit.exe,0003FSISW,wininit.exe,C:\Windows\system32,6224,NT AUTHORITY\SYSTEM
+34,"""C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=12376823585177401963 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=12376823585177401963 --renderer-client-id=7 --mojo-platform-channel-handle=2368 /prefetch:1",0003FSISW,opera.exe,C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52,6111,poppyturne23
+36,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,0003FSISW,svchost.exe,C:\Windows\System32,3580,NT AUTHORITY\SYSTEM
+38,C:\Windows\System32\svchost.exe -k LocalServicePeerNet,0003FSISW,svchost.exe,C:\Windows\System32,4440,NT AUTHORITY\SYSTEM
+39,"""C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=2685998191293934672 --lang=en-GB --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2685998191293934672 --renderer-client-id=12 --mojo-platform-channel-handle=4360 /prefetch:1",0003FSISW,opera.exe,C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52,4551,poppyturne23
+41,"""C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=gpu-process --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --gpu-preferences=KAAAAAAAAACAAwBAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --service-request-channel-token=7207758415534163028 --mojo-platform-channel-handle=1472 --ignored="" --type=renderer "" /prefetch:2",0003FSISW,opera.exe,C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52,6197,poppyturne23
+43,C:\Windows\system32\SearchIndexer.exe /Embedding,0003FSISW,SearchIndexer.exe,C:\Windows\system32,2904,NT AUTHORITY\SYSTEM
+45,"C:\WINDOWS\system32\cmd.exe /c """"C:\Ruby24-x64\bin\irb.cmd"" """,0003FSISW,cmd.exe,C:\WINDOWS\system32,2608,kyl.sanders
+46,C:\Windows\system32\svchost.exe -k RPCSS,0003FSISW,svchost.exe,C:\Windows\system32,140,NT AUTHORITY\SYSTEM
+47,C:\Windows\system32\lsm.exe,0003FSISW,lsm.exe,C:\Windows\system32,5080,NT AUTHORITY\SYSTEM
+48,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",0003FSISW,mchost.exe,C:\Program Files\Common Files\McAfee\Platform\Core,4896,kyl.sanders
+51,C:\Windows\System32\spoolsv.exe,0003FSISW,spoolsv.exe,C:\Windows\System32,5628,NT AUTHORITY\SYSTEM
+52,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,0003FSISW,svchost.exe,C:\Windows\System32,3376,NT AUTHORITY\SYSTEM
+58,%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024 20480 768 Windows=On SubSystemType=Windows ServerDll=basesrv 1 ServerDll=winsrv:UserServerDllInitialization 3 ServerDll=winsrv:ConServerDllInitialization 2 ServerDll=sxssrv 4 ProfileControl=Off MaxRequestThreads=16,0003FSISW,csrss.exe,C:\Windows\system32,6340,NT AUTHORITY\SYSTEM
+59,"""C:\Users\kyl.sanders\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",0003FSISW,mcafee_trial_setup_433.0207.3919_key.exe,C:\Users\kyl.sanders\AppData\Local\Temp\scoped_dir9616_4071,406,kyl.sanders
+60,"C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52\opera_crashreporter.exe --type=crashpad-handler /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler ""--database=C:\Users\poppyturne23\AppData\Roaming\Opera Software\Opera Stable\Crash Reports"" ""--crash-count-file=C:\Users\poppyturne23\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt"" --url=https://crashstats-collector.opera.com/collector/submit --annotation=channel=Stable --annotation=plat=Win64 --annotation=prod=OperaDesktop --annotation=ver=56.0.3051.52 --initial-client-data=0x238 0x304 0x30c 0x320 0x308 0x7ffb51313108 0x7ffb51313118 0x7ffb51313128",0003FSISW,opera_crashreporter.exe,C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52,4403,poppyturne23
+61,"""C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe""",0003FSISW,vmware-authd.exe,C:\Program Files (x86)\VMware\VMware Player,1965,poppyturne23
+63,"""C:\Ruby24-x64\bin\ruby.exe"" ",0003FSISW,ruby.exe,C:\Ruby24-x64\bin,2765,kyl.sanders
+64,C:\Windows\system32\svchost.exe -k NetworkService,0003FSISW,svchost.exe,C:\Windows\system32,4180,NT AUTHORITY\SYSTEM
+69,C:\Windows\System32\reg.exe ADD HKLM\SYSTEM\CurrentControlSet\Control\Lsa /v Security Packages /t REG_expand_SZ /d C:\Windows\System32\lsfk21d.dll,0003FSISW,reg.exe,C:\Windows\System32\reg.exe,3372,jasmin.washin
+70,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",0003FSISW,ProtectedModuleHost.exe,C:\Program Files\Common Files\McAfee\ModuleCore,1183,kyl.sanders
+73,"""C:\Ruby24-x64\bin\ruby.exe"" ",0003FSISW,ruby.exe,C:\Ruby24-x64\bin,2108,kyl.sanders
+74,"""C:\Windows\system32\wuauclt.exe""",0003FSISW,wuauclt.exe,C:\Windows\system32,1944,NT AUTHORITY\SYSTEM
+77,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",0003FSISW,McAMTaskAgent.exe,C:\Program Files\Common Files\McAfee\TaskScheduler,1465,kyl.sanders
+79,"""C:\Users\kyl.sanders\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",0003FSISW,OneDrive.exe,C:\Users\kyl.sanders\AppData\Local\Microsoft\OneDrive,646,kyl.sanders
+81,C:\Windows\system32\svchost.exe -k LocalService,0003FSISW,svchost.exe,C:\Windows\system32,584,NT AUTHORITY\SYSTEM
+83,C:\Windows\system32\svchost.exe -k netsvcs,0003FSISW,svchost.exe,C:\Windows\system32,1496,NT AUTHORITY\SYSTEM
+86,,0003FSISW,Narrator.exe,C:\Windows\System32\Narrator.exe,5844,NT AUTHORITY\SYSTEM
+91,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",0003FSISW,McCSPServiceHost.exe,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,2231,kyl.sanders
+94,C:\Windows\system32\sppsvc.exe,0003FSISW,sppsvc.exe,C:\Windows\system32,6160,NT AUTHORITY\SYSTEM
+96,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",0003FSISW,MMSSHOST.EXE,C:\Program Files\Common Files\McAfee\MMSSHost,5457,kyl.sanders
+97,"""C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=16451249972883912486 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16451249972883912486 --renderer-client-id=4 --mojo-platform-channel-handle=3140 /prefetch:1",0003FSISW,opera.exe,C:\Users\poppyturne23\AppData\Local\Programs\Opera\56.0.3051.52,3084,poppyturne23
+98,C:\Windows\System32\svchost.exe -k termsvcs,0003FSISW,svchost.exe,C:\Windows\System32\svchost.exe,816,jasmin.washin
+100,"C:\WINDOWS\system32\cmd.exe /c """"C:\Ruby24-x64\bin\irb.cmd"" """,0003FSISW,cmd.exe,C:\WINDOWS\system32,3802,kyl.sanders
+102,"""taskhost.exe""",0003FSISW,taskhost.exe,C:\Windows\system32,344,NT AUTHORITY\SYSTEM
+104,winlogon.exe,0003FSISW,winlogon.exe,C:\Windows\system32,2476,NT AUTHORITY\SYSTEM
+106,C:\Windows\servicing\TrustedInstaller.exe,0003FSISW,TrustedInstaller.exe,C:\Windows\servicing,1304,NT AUTHORITY\SYSTEM
+114,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",0003FSISW,UIHost.exe,C:\Program Files\McAfee\WebAdvisor,4629,kyl.sanders

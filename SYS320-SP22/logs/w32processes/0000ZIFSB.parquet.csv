@@ -1,0 +1,69 @@
+,arguments,hostname,name,path,pid,username
+0,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",0000ZIFSB,CCleaner64.exe,C:\Program Files\CCleaner,3056,rub.hug83
+1,C:\Windows\System32\svchost.exe -k utcsvc,0000ZIFSB,svchost.exe,C:\Windows\System32,5344,NT AUTHORITY\SYSTEM
+2,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",0000ZIFSB,LogonUI.exe,C:\Windows\system32,1740,NT AUTHORITY\SYSTEM
+3,"""C:\Users\zarwatso67\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",0000ZIFSB,OneDrive.exe,C:\Users\zarwatso67\AppData\Local\Microsoft\OneDrive,4715,zarwatso67
+4,C:\Windows\System32\RuntimeBroker.exe -Embedding,0000ZIFSB,RuntimeBroker.exe,C:\Windows\System32,1456,NT AUTHORITY\SYSTEM
+5,C:\Windows\Explorer.EXE,0000ZIFSB,Explorer.EXE,C:\Windows,1452,NT AUTHORITY\SYSTEM
+6,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,0000ZIFSB,svchost.exe,C:\Windows\system32,524,NT AUTHORITY\SYSTEM
+7,"""dwm.exe""",0000ZIFSB,dwm.exe,C:\Windows\system32,6156,NT AUTHORITY\SYSTEM
+8,C:\Windows\System32\svchost.exe -k termsvcs,0000ZIFSB,svchost.exe,C:\Windows\System32,5332,NT AUTHORITY\SYSTEM
+9,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",0000ZIFSB,mchost.exe,C:\Program Files\Common Files\McAfee\Platform\Core,4548,Administrator
+10,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,0000ZIFSB,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack,2300,Administrator
+11,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},0000ZIFSB,taskhostw.exe,C:\Windows\System32,6140,NT AUTHORITY\SYSTEM
+12,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",0000ZIFSB,MpCmdRun.exe,C:\Program Files\Windows Defender,1988,NT AUTHORITY\SYSTEM
+13,\??\C:\Windows\system32\conhost.exe 0x4,0000ZIFSB,conhost.exe,C:\Windows\system32,1204,NT AUTHORITY\SYSTEM
+14,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",0000ZIFSB,McPvTray.exe,C:\Program Files\McAfee\MAT,2970,Administrator
+15,C:\Windows\system32\svchost.exe -k NetworkService,0000ZIFSB,svchost.exe,C:\Windows\system32,5588,NT AUTHORITY\SYSTEM
+16,"""C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=2685998191293934672 --lang=en-GB --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2685998191293934672 --renderer-client-id=12 --mojo-platform-channel-handle=4360 /prefetch:1",0000ZIFSB,opera.exe,C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52,3705,jesale23
+17,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",0000ZIFSB,CCleaner64.exe,C:\Program Files\CCleaner,2555,Administrator
+18,C:\Windows\system32\svchost.exe -k DcomLaunch,0000ZIFSB,svchost.exe,C:\Windows\system32,1116,NT AUTHORITY\SYSTEM
+19,sihost.exe,0000ZIFSB,sihost.exe,C:\Windows\System32,2352,NT AUTHORITY\SYSTEM
+22,winlogon.exe,0000ZIFSB,winlogon.exe,C:\Windows\system32,1676,NT AUTHORITY\SYSTEM
+23,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",0000ZIFSB,mcshield.exe,C:\Program Files\Common Files\McAfee\AMCore,6440,Administrator
+24,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",0000ZIFSB,UIHost.exe,C:\Program Files\McAfee\WebAdvisor,6169,Administrator
+25,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",0000ZIFSB,McApExe.exe,C:\Program Files\Common Files\McAfee\VSCore_18_6,1620,Administrator
+26,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,0000ZIFSB,McDiReg.exe,C:\ProgramData\McAfee\Direct,956,Administrator
+27,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",0000ZIFSB,MFEAvSvc.exe,C:\Program Files\McAfee\MfeAV,6450,Administrator
+28,"""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" ",0000ZIFSB,powershell.exe,C:\Windows\System32\WindowsPowerShell\v1.0,1351,jesale23
+29,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",0000ZIFSB,McAMTaskAgent.exe,C:\Program Files\Common Files\McAfee\TaskScheduler,6087,Administrator
+30,"""C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --start-maximized --ran-launcher",0000ZIFSB,opera.exe,C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52,2371,jesale23
+31,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",0000ZIFSB,PEFService.exe,C:\Program Files\Common Files\McAfee\PEF\CORE,2171,Administrator
+33,"""C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=gpu-process --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --gpu-preferences=KAAAAAAAAACAAwBAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --service-request-channel-token=7207758415534163028 --mojo-platform-channel-handle=1472 --ignored="" --type=renderer "" /prefetch:2",0000ZIFSB,opera.exe,C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52,2653,jesale23
+34,"""C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=12376823585177401963 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=12376823585177401963 --renderer-client-id=7 --mojo-platform-channel-handle=2368 /prefetch:1",0000ZIFSB,opera.exe,C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52,2631,jesale23
+37,C:\Windows\system32\svchost.exe -k RPCSS,0000ZIFSB,svchost.exe,C:\Windows\system32,5116,NT AUTHORITY\SYSTEM
+38,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",0000ZIFSB,McCSPServiceHost.exe,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,5131,Administrator
+39,"""C:\Users\Administrator\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",0000ZIFSB,mcafee_trial_setup_433.0207.3919_key.exe,C:\Users\Administrator\AppData\Local\Temp\scoped_dir9616_4071,6025,Administrator
+41,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,0000ZIFSB,svchost.exe,C:\Windows\system32,780,NT AUTHORITY\SYSTEM
+43,"C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52\opera_crashreporter.exe --type=crashpad-handler /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler ""--database=C:\Users\jesale23\AppData\Roaming\Opera Software\Opera Stable\Crash Reports"" ""--crash-count-file=C:\Users\jesale23\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt"" --url=https://crashstats-collector.opera.com/collector/submit --annotation=channel=Stable --annotation=plat=Win64 --annotation=prod=OperaDesktop --annotation=ver=56.0.3051.52 --initial-client-data=0x238 0x304 0x30c 0x320 0x308 0x7ffb51313108 0x7ffb51313118 0x7ffb51313128",0000ZIFSB,opera_crashreporter.exe,C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52,3212,jesale23
+46,C:\Windows\System32\svchost.exe -k smbsvcs,0000ZIFSB,svchost.exe,C:\Windows\System32,3744,NT AUTHORITY\SYSTEM
+47,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,0000ZIFSB,svchost.exe,C:\Windows\System32,2236,NT AUTHORITY\SYSTEM
+48,C:\Windows\system32\svchost.exe -k LocalService,0000ZIFSB,svchost.exe,C:\Windows\system32,504,NT AUTHORITY\SYSTEM
+49,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",0000ZIFSB,McDiReg.exe,C:\ProgramData\McAfee\Direct,2479,Administrator
+50,C:\Windows\System32\svchost.exe -k netsvcs,0000ZIFSB,svchost.exe,C:\Windows\System32,4684,NT AUTHORITY\SYSTEM
+51,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",0000ZIFSB,ProtectedModuleHost.exe,C:\Program Files\Common Files\McAfee\ModuleCore,6468,Administrator
+52,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,0000ZIFSB,ModuleCoreService.exe,c:\program files\common files\mcafee\modulecore,4055,Administrator
+54,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,0000ZIFSB,svchost.exe,C:\Windows\system32,532,NT AUTHORITY\SYSTEM
+55,C:\Windows\system32\svchost.exe -k appmodel,0000ZIFSB,svchost.exe,C:\Windows\system32,600,NT AUTHORITY\SYSTEM
+56,"""dwm.exe""",0000ZIFSB,dwm.exe,C:\Windows\system32,3476,NT AUTHORITY\SYSTEM
+57,"""C:\Program Files\CCleaner\CCleaner.exe"" /uac",0000ZIFSB,CCleaner64.exe,C:\Program Files\CCleaner,5766,rub.hug83
+58,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,0000ZIFSB,svchost.exe,C:\Windows\system32,2952,NT AUTHORITY\SYSTEM
+62,C:\Windows\System32\spoolsv.exe,0000ZIFSB,spoolsv.exe,C:\Windows\System32,5180,NT AUTHORITY\SYSTEM
+64,C:\Windows\system32\lsass.exe,0000ZIFSB,lsass.exe,C:\Windows\system32,988,NT AUTHORITY\SYSTEM
+65,"""C:\Program Files\CCleaner\CCleaner.exe"" /MONITOR /uac",0000ZIFSB,CCleaner64.exe,C:\Program Files\CCleaner,3733,Administrator
+70,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},0000ZIFSB,dllhost.exe,C:\Windows\system32,4748,NT AUTHORITY\SYSTEM
+71,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",0000ZIFSB,KeePassXC.exe,C:\Program Files\KeePassXC,4988,jasmin.washin
+73,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",0000ZIFSB,ServiceHost.exe,C:\Program Files\McAfee\WebAdvisor,4568,Administrator
+74,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",0000ZIFSB,mcuicnt.exe,C:\Program Files\Common Files\mcafee\Platform,2900,Administrator
+75,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",0000ZIFSB,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,344,NT AUTHORITY\SYSTEM
+77,"""C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=6930244878569528683 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6930244878569528683 --renderer-client-id=3 --mojo-platform-channel-handle=2904 /prefetch:1",0000ZIFSB,opera.exe,C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52,5982,jesale23
+78,C:\Windows\System32\msdtc.exe,0000ZIFSB,msdtc.exe,C:\Windows\System32,140,NT AUTHORITY\SYSTEM
+81,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",0000ZIFSB,SearchUI.exe,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,5084,NT AUTHORITY\SYSTEM
+83,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",0000ZIFSB,MMSSHOST.EXE,C:\Program Files\Common Files\McAfee\MMSSHost,1776,Administrator
+86,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,0000ZIFSB,svchost.exe,C:\Windows\System32,348,NT AUTHORITY\SYSTEM
+96,winlogon.exe,0000ZIFSB,winlogon.exe,C:\Windows\system32,1120,NT AUTHORITY\SYSTEM
+101,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,0000ZIFSB,svchost.exe,C:\Windows\system32,3860,NT AUTHORITY\SYSTEM
+106,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},0000ZIFSB,dllhost.exe,C:\Windows\system32,3968,NT AUTHORITY\SYSTEM
+109,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",0000ZIFSB,modulecoreservice.exe,c:\program files\common files\mcafee\modulecore,5347,Administrator
+114,/loadhooks /Parent:0000000000001188,0000ZIFSB,TabTip32.exe,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,6320,NT AUTHORITY\SYSTEM
+120,"""C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=16451249972883912486 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16451249972883912486 --renderer-client-id=4 --mojo-platform-channel-handle=3140 /prefetch:1",0000ZIFSB,opera.exe,C:\Users\jesale23\AppData\Local\Programs\Opera\56.0.3051.52,3844,jesale23

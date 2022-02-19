@@ -3,7 +3,6 @@ import yaml
 
 # this function will take the logFile, and the searchTerm and return all occurrences of a specific type of attack
 def logOpen(term):
-
     # Open the attacks.yaml file
     try:
         with open('attacks.yaml', 'r') as yf:
@@ -17,5 +16,4 @@ def logOpen(term):
 
     except EnvironmentError as e:
         print(e.strerror)
-
     return listOfKeywords

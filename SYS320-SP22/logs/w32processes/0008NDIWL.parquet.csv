@@ -1,0 +1,74 @@
+,arguments,hostname,name,path,pid,username
+0,"""LogonUI.exe"" /flags:0x0 /state0:0xa3a5d855 /state1:0x41c64e6d",0008NDIWL,LogonUI.exe,C:\Windows\system32,3128,NT AUTHORITY\SYSTEM
+1,winlogon.exe,0008NDIWL,winlogon.exe,C:\Windows\system32,960,NT AUTHORITY\SYSTEM
+2,C:\Windows\System32\msdtc.exe,0008NDIWL,msdtc.exe,C:\Windows\System32,2248,NT AUTHORITY\SYSTEM
+3,"""C:\Ruby24-x64\bin\ruby.exe"" ",0008NDIWL,ruby.exe,C:\Ruby24-x64\bin,807,emil.benne
+4,"""C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=16451249972883912486 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16451249972883912486 --renderer-client-id=4 --mojo-platform-channel-handle=3140 /prefetch:1",0008NDIWL,opera.exe,C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52,5618,darci.wood8
+5,C:\Windows\System32\RuntimeBroker.exe -Embedding,0008NDIWL,RuntimeBroker.exe,C:\Windows\System32,5964,NT AUTHORITY\SYSTEM
+6,"""C:\Program Files\Windows Defender\\MpCmdRun.exe"" SpyNetServiceDss -RestrictPrivileges -AccessKey 5BDCBEBD-E077-6957-0484-82901932C7EC -Reinvoke",0008NDIWL,MpCmdRun.exe,C:\Program Files\Windows Defender,5832,NT AUTHORITY\SYSTEM
+7,C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation,0008NDIWL,svchost.exe,C:\Windows\system32,4376,NT AUTHORITY\SYSTEM
+8,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork,0008NDIWL,svchost.exe,C:\Windows\system32,3376,NT AUTHORITY\SYSTEM
+9,C:\Windows\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235},0008NDIWL,dllhost.exe,C:\Windows\system32,3152,NT AUTHORITY\SYSTEM
+10,/loadhooks /Parent:0000000000001188,0008NDIWL,TabTip32.exe,C:\Program Files (x86)\Common Files\Microsoft Shared\Ink,1328,NT AUTHORITY\SYSTEM
+11,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",0008NDIWL,ProtectedModuleHost.exe,C:\Program Files\Common Files\McAfee\ModuleCore,5335,matild.howard8
+12,"""dwm.exe""",0008NDIWL,dwm.exe,C:\Windows\system32,2460,NT AUTHORITY\SYSTEM
+13,C:\Windows\system32\dllhost.exe /Processid:{A7CCA429-5F8F-4A5B-B524-82C38D561286},0008NDIWL,dllhost.exe,C:\Windows\system32,2980,NT AUTHORITY\SYSTEM
+14,C:\Windows\system32\svchost.exe -k RPCSS,0008NDIWL,svchost.exe,C:\Windows\system32,3632,NT AUTHORITY\SYSTEM
+15,"C:\WINDOWS\system32\cmd.exe /c """"C:\Ruby24-x64\bin\irb.cmd"" """,0008NDIWL,cmd.exe,C:\WINDOWS\system32,3986,emil.benne
+17,"""C:\Users\matild.howard8\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",0008NDIWL,mcafee_trial_setup_433.0207.3919_key.exe,C:\Users\matild.howard8\AppData\Local\Temp\scoped_dir9616_4071,2145,matild.howard8
+18,"""C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE"" ",0008NDIWL,WINWORD.EXE,C:\Program Files\Microsoft Office\root\Office16,2597,mat.robinson7
+19,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",0008NDIWL,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,760,NT AUTHORITY\SYSTEM
+21,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",0008NDIWL,MMSSHOST.EXE,C:\Program Files\Common Files\McAfee\MMSSHost,2819,matild.howard8
+23,"""C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=2685998191293934672 --lang=en-GB --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2685998191293934672 --renderer-client-id=12 --mojo-platform-channel-handle=4360 /prefetch:1",0008NDIWL,opera.exe,C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52,1110,darci.wood8
+24,C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted,0008NDIWL,svchost.exe,C:\Windows\System32,2208,NT AUTHORITY\SYSTEM
+25,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},0008NDIWL,taskhostw.exe,C:\Windows\System32,5008,NT AUTHORITY\SYSTEM
+26,C:\Windows\system32\svchost.exe -k LocalService,0008NDIWL,svchost.exe,C:\Windows\system32,6416,NT AUTHORITY\SYSTEM
+27,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,0008NDIWL,ModuleCoreService.exe,c:\program files\common files\mcafee\modulecore,4534,matild.howard8
+28,C:\Windows\Explorer.EXE,0008NDIWL,Explorer.EXE,C:\Windows,5344,NT AUTHORITY\SYSTEM
+29,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ",0008NDIWL,soffice.exe,C:\Program Files (x86)\OpenOffice 4\program,4080,emil.benne
+32,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",0008NDIWL,MFEAvSvc.exe,C:\Program Files\McAfee\MfeAV,4077,matild.howard8
+33,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",0008NDIWL,McDiReg.exe,C:\ProgramData\McAfee\Direct,3143,matild.howard8
+34,"""C:\Program Files (x86)\OpenOffice 4\program\soffice.exe"" ""-env:OOO_CWD=2C:\\Program Files (x86)\\OpenOffice 4""",0008NDIWL,soffice.bin,C:\Program Files (x86)\OpenOffice 4\program,4197,emil.benne
+35,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",0008NDIWL,McPvTray.exe,C:\Program Files\McAfee\MAT,1984,matild.howard8
+36,C:\Windows\system32\svchost.exe -k DcomLaunch,0008NDIWL,svchost.exe,C:\Windows\system32,228,NT AUTHORITY\SYSTEM
+37,C:\Windows\system32\svchost.exe -k appmodel,0008NDIWL,svchost.exe,C:\Windows\system32,1324,NT AUTHORITY\SYSTEM
+38,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",0008NDIWL,McCSPServiceHost.exe,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,6325,matild.howard8
+39,C:\Windows\system32\svchost.exe -k UnistackSvcGroup,0008NDIWL,svchost.exe,C:\Windows\system32,5864,NT AUTHORITY\SYSTEM
+40,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",0008NDIWL,UIHost.exe,C:\Program Files\McAfee\WebAdvisor,2379,matild.howard8
+41,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",0008NDIWL,modulecoreservice.exe,c:\program files\common files\mcafee\modulecore,6497,matild.howard8
+42,"""C:\Program Files\KeePassXC\KeePassXC.exe"" ",0008NDIWL,KeePassXC.exe,C:\Program Files\KeePassXC,4841,jasmin.washin
+44,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted,0008NDIWL,svchost.exe,C:\Windows\system32,2168,NT AUTHORITY\SYSTEM
+45,"""C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --start-maximized --ran-launcher",0008NDIWL,opera.exe,C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52,885,darci.wood8
+47,"""dwm.exe""",0008NDIWL,dwm.exe,C:\Windows\system32,6112,NT AUTHORITY\SYSTEM
+49,C:\Windows\system32\svchost.exe -k NetworkService,0008NDIWL,svchost.exe,C:\Windows\system32,2672,NT AUTHORITY\SYSTEM
+51,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",0008NDIWL,ServiceHost.exe,C:\Program Files\McAfee\WebAdvisor,3185,matild.howard8
+52,C:\Windows\System32\svchost.exe -k netsvcs,0008NDIWL,svchost.exe,C:\Windows\System32,4580,NT AUTHORITY\SYSTEM
+53,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",0008NDIWL,SearchUI.exe,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,3032,NT AUTHORITY\SYSTEM
+55,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",0008NDIWL,mcuicnt.exe,C:\Program Files\Common Files\mcafee\Platform,688,matild.howard8
+56,C:\Windows\System32\spoolsv.exe,0008NDIWL,spoolsv.exe,C:\Windows\System32,2712,NT AUTHORITY\SYSTEM
+57,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",0008NDIWL,mcshield.exe,C:\Program Files\Common Files\McAfee\AMCore,1383,matild.howard8
+58,"""C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=12376823585177401963 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=12376823585177401963 --renderer-client-id=7 --mojo-platform-channel-handle=2368 /prefetch:1",0008NDIWL,opera.exe,C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52,4008,darci.wood8
+59,C:\Windows\System32\svchost.exe -k termsvcs,0008NDIWL,svchost.exe,C:\Windows\System32,5012,NT AUTHORITY\SYSTEM
+61,winlogon.exe,0008NDIWL,winlogon.exe,C:\Windows\system32,1916,NT AUTHORITY\SYSTEM
+63,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted,0008NDIWL,svchost.exe,C:\Windows\System32,5844,NT AUTHORITY\SYSTEM
+67,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,0008NDIWL,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack,815,matild.howard8
+68,"""C:\Program Files (x86)\VMware\VMware Player\vmware-authd.exe""",0008NDIWL,vmware-authd.exe,C:\Program Files (x86)\VMware\VMware Player,3755,darci.wood8
+72,"""C:\Program Files (x86)\Common Files\VMware\USB\vmware-usbarbitrator64.exe""",0008NDIWL,vmware-usbarbitrator64.exe,C:\Program Files (x86)\Common Files\VMware\USB,1513,darci.wood8
+74,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,0008NDIWL,McDiReg.exe,C:\ProgramData\McAfee\Direct,784,matild.howard8
+76,"""C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=6930244878569528683 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6930244878569528683 --renderer-client-id=3 --mojo-platform-channel-handle=2904 /prefetch:1",0008NDIWL,opera.exe,C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52,2839,darci.wood8
+77,"C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52\opera_crashreporter.exe --type=crashpad-handler /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler ""--database=C:\Users\darci.wood8\AppData\Roaming\Opera Software\Opera Stable\Crash Reports"" ""--crash-count-file=C:\Users\darci.wood8\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt"" --url=https://crashstats-collector.opera.com/collector/submit --annotation=channel=Stable --annotation=plat=Win64 --annotation=prod=OperaDesktop --annotation=ver=56.0.3051.52 --initial-client-data=0x238 0x304 0x30c 0x320 0x308 0x7ffb51313108 0x7ffb51313118 0x7ffb51313128",0008NDIWL,opera_crashreporter.exe,C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52,1799,darci.wood8
+78,sihost.exe,0008NDIWL,sihost.exe,C:\Windows\System32,5292,NT AUTHORITY\SYSTEM
+79,C:\Windows\system32\lsass.exe,0008NDIWL,lsass.exe,C:\Windows\system32,3952,NT AUTHORITY\SYSTEM
+80,"""C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=gpu-process --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --gpu-preferences=KAAAAAAAAACAAwBAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --service-request-channel-token=7207758415534163028 --mojo-platform-channel-handle=1472 --ignored="" --type=renderer "" /prefetch:2",0008NDIWL,opera.exe,C:\Users\darci.wood8\AppData\Local\Programs\Opera\56.0.3051.52,2249,darci.wood8
+82,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",0008NDIWL,McAMTaskAgent.exe,C:\Program Files\Common Files\McAfee\TaskScheduler,911,matild.howard8
+83,\??\C:\Windows\system32\conhost.exe 0x4,0008NDIWL,conhost.exe,C:\Windows\system32,2628,NT AUTHORITY\SYSTEM
+87,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",0008NDIWL,McApExe.exe,C:\Program Files\Common Files\McAfee\VSCore_18_6,3689,matild.howard8
+91,"C:\Windows\System32\reg.exe add ""HKEY_CURRENT_USER\Control Panel\Desktop"" /v ScreenSaveActive /t REG_SZ /d 1 /f",0008NDIWL,reg.exe,C:\Windows\System32\reg.exe,500,emil.benne
+94,"""C:\Users\mat.robinson7\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",0008NDIWL,OneDrive.exe,C:\Users\mat.robinson7\AppData\Local\Microsoft\OneDrive,5903,mat.robinson7
+112,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",0008NDIWL,mchost.exe,C:\Program Files\Common Files\McAfee\Platform\Core,488,matild.howard8
+115,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",0008NDIWL,PEFService.exe,C:\Program Files\Common Files\McAfee\PEF\CORE,2987,matild.howard8
+120,C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted,0008NDIWL,svchost.exe,C:\Windows\system32,796,NT AUTHORITY\SYSTEM
+121,C:\Windows\System32\svchost.exe -k utcsvc,0008NDIWL,svchost.exe,C:\Windows\System32,6252,NT AUTHORITY\SYSTEM
+122,"C:\Windows\System32\reg.exe add ""HKEY_CURRENT_USER\Control Panel\Desktop"" /v ScreenSaverIsSecure /t REG_SZ /d 0 /f",0008NDIWL,reg.exe,C:\Windows\System32\reg.exe,4860,mat.robinson7
+124,"C:\Windows\System32\reg.exe add ""HKEY_CURRENT_USER\Control Panel\Desktop"" /v ScreenSaverTimeout /t REG_SZ /d 60 /f",0008NDIWL,reg.exe,C:\Windows\System32\reg.exe,2448,mat.robinson7
+133,C:\Windows\System32\svchost.exe -k smbsvcs,0008NDIWL,svchost.exe,C:\Windows\System32,6476,NT AUTHORITY\SYSTEM

@@ -1,0 +1,142 @@
+,arguments,hostname,name,path,pid,username
+0,c:\windows\system32\svchost.exe -k networkservice -p -s NlaSvc,0008EPUNE,svchost.exe,c:\windows\system32,3248,NT AUTHORITY\SYSTEM
+1,"C:\Users\darc.flore1\AppData\Local\slack\app-3.1.1\slack.exe --reporter-url=https://slack.com/apps/breakpad?instanceUid=c116fa6f-e78f-4f7e-9927-09567265c493&amp;version=3.1.1&amp;channel=prod --application-name=Slack ""--crashes-directory=C:\Users\darc.flore1\AppData\Local\Temp\Slack Crashes"" --v=1",0008EPUNE,slack.exe,C:\Users\darc.flore1\AppData\Local\slack\app-3.1.1,5829,darc.flore1
+2,c:\windows\system32\svchost.exe -k netsvcs -p -s BITS,0008EPUNE,svchost.exe,c:\windows\system32,1024,NT AUTHORITY\SYSTEM
+3,c:\windows\system32\svchost.exe -k netsvcs -p -s lfsvc,0008EPUNE,svchost.exe,c:\windows\system32,4288,NT AUTHORITY\SYSTEM
+4,"""C:\Users\zarwatso67\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --squirrel-firstrun",0008EPUNE,GitHubDesktop.exe,C:\Users\zarwatso67\AppData\Local\GitHubDesktop\app-1.4.3,6099,zarwatso67
+5,"""c:\program files\common files\mcafee\modulecore\modulecoreservice.exe""",0008EPUNE,modulecoreservice.exe,c:\program files\common files\mcafee\modulecore,570,svc_cb
+6,"""C:\Windows\system32\mspaint.exe"" ",0008EPUNE,mspaint.exe,C:\Windows\system32,5679,zarwatso67
+7,c:\windows\system32\svchost.exe -k netsvcs -p -s SENS,0008EPUNE,svchost.exe,c:\windows\system32,5612,NT AUTHORITY\SYSTEM
+8,c:\windows\system32\svchost.exe -k localservice -p -s netprofm,0008EPUNE,svchost.exe,c:\windows\system32,5072,NT AUTHORITY\SYSTEM
+9,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s PcaSvc,0008EPUNE,svchost.exe,c:\windows\system32,1652,NT AUTHORITY\SYSTEM
+10,c:\windows\system32\svchost.exe -k unistacksvcgroup -s WpnUserService,0008EPUNE,svchost.exe,c:\windows\system32,4964,NT AUTHORITY\SYSTEM
+11,c:\windows\system32\svchost.exe -k localservice -p -s bthserv,0008EPUNE,svchost.exe,c:\windows\system32,4100,NT AUTHORITY\SYSTEM
+12,,0008EPUNE,svchost.exe,,5684,NT AUTHORITY\SYSTEM
+13,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -s BTAGService,0008EPUNE,svchost.exe,c:\windows\system32,3660,NT AUTHORITY\SYSTEM
+14,"""C:\Program Files (x86)\TeamViewer\TeamViewer_Service.exe""",0008EPUNE,TeamViewer_Service.exe,C:\Program Files (x86)\TeamViewer,3035,annagra
+15,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SysMain,0008EPUNE,svchost.exe,c:\windows\system32,2468,NT AUTHORITY\SYSTEM
+16,"""C:\Windows\system32\SearchFilterHost.exe"" 0 736 740 748 8192 744 ",0008EPUNE,SearchFilterHost.exe,C:\Windows\system32,3144,NT AUTHORITY\SYSTEM
+17,c:\windows\system32\svchost.exe -k localserviceandnoimpersonation -p -s SSDPSRV,0008EPUNE,svchost.exe,c:\windows\system32,5588,NT AUTHORITY\SYSTEM
+18,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p,0008EPUNE,svchost.exe,C:\Windows\System32,3992,NT AUTHORITY\SYSTEM
+19,C:\Windows\System32\RuntimeBroker.exe -Embedding,0008EPUNE,RuntimeBroker.exe,C:\Windows\System32,5404,NT AUTHORITY\SYSTEM
+20,"""C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe\Microsoft.Notes.exe"" -ServerName:App.AppX495fygk72hjw82j58ny5h3nr8hpsd8vs.mca",0008EPUNE,Microsoft.Notes.exe,C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.0.119.0_x64__8wekyb3d8bbwe,2558,lotti.richards
+21,c:\windows\system32\svchost.exe -k dcomlaunch -p -s PlugPlay,0008EPUNE,svchost.exe,c:\windows\system32,4368,NT AUTHORITY\SYSTEM
+22,C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F},0008EPUNE,DllHost.exe,C:\Windows\system32,6084,NT AUTHORITY\SYSTEM
+23,c:\windows\system32\svchost.exe -k localservice -p -s FontCache,0008EPUNE,svchost.exe,c:\windows\system32,6496,NT AUTHORITY\SYSTEM
+24,C:\ProgramData\McAfee\McInstruTrack\McInstruTrack.exe /SP:0,0008EPUNE,McInstruTrack.exe,C:\ProgramData\McAfee\McInstruTrack,1582,svc_cb
+25,"""C:\\Program Files\\Common Files\\McAfee\ModuleCore\\ProtectedModuleHost.exe""",0008EPUNE,ProtectedModuleHost.exe,C:\Program Files\Common Files\McAfee\ModuleCore,6424,svc_cb
+26,,0008EPUNE,NisSrv.exe,,1220,NT AUTHORITY\SYSTEM
+27,c:\windows\system32\svchost.exe -k networkservice -p -s CryptSvc,0008EPUNE,svchost.exe,c:\windows\system32,6420,NT AUTHORITY\SYSTEM
+28,,0008EPUNE,smss.exe,,2896,NT AUTHORITY\SYSTEM
+29,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s Dhcp,0008EPUNE,svchost.exe,c:\windows\system32,3780,NT AUTHORITY\SYSTEM
+30,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s NcbService,0008EPUNE,svchost.exe,c:\windows\system32,5592,NT AUTHORITY\SYSTEM
+31,"C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52\opera_crashreporter.exe --type=crashpad-handler /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler ""--database=C:\Users\lotti.richards\AppData\Roaming\Opera Software\Opera Stable\Crash Reports"" ""--crash-count-file=C:\Users\lotti.richards\AppData\Roaming\Opera Software\Opera Stable\crash_count.txt"" --url=https://crashstats-collector.opera.com/collector/submit --annotation=channel=Stable --annotation=plat=Win64 --annotation=prod=OperaDesktop --annotation=ver=56.0.3051.52 --initial-client-data=0x238 0x304 0x30c 0x320 0x308 0x7ffb51313108 0x7ffb51313118 0x7ffb51313128",0008EPUNE,opera_crashreporter.exe,C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52,1309,lotti.richards
+32,"""C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe"" ",0008EPUNE,jusched.exe,C:\Program Files (x86)\Common Files\Java\Java Update,2796,NT AUTHORITY\SYSTEM
+33,C:\Windows\system32\svchost.exe -k LocalService -p,0008EPUNE,svchost.exe,C:\Windows\system32,5900,NT AUTHORITY\SYSTEM
+34,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s StorSvc,0008EPUNE,svchost.exe,c:\windows\system32,6436,NT AUTHORITY\SYSTEM
+35,c:\windows\system32\svchost.exe -k rpcss -p,0008EPUNE,svchost.exe,c:\windows\system32,5712,NT AUTHORITY\SYSTEM
+36,"""C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=2685998191293934672 --lang=en-GB --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=2685998191293934672 --renderer-client-id=12 --mojo-platform-channel-handle=4360 /prefetch:1",0008EPUNE,opera.exe,C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52,3581,lotti.richards
+38,c:\windows\system32\svchost.exe -k netsvcs -p -s WpnService,0008EPUNE,svchost.exe,c:\windows\system32,2360,NT AUTHORITY\SYSTEM
+39,,0008EPUNE,SecurityHealthService.exe,,2760,NT AUTHORITY\SYSTEM
+40,c:\windows\system32\svchost.exe -k netsvcs -p -s ShellHWDetection,0008EPUNE,svchost.exe,c:\windows\system32,6392,NT AUTHORITY\SYSTEM
+41,"""dwm.exe""",0008EPUNE,dwm.exe,C:\Windows\System32,1608,NT AUTHORITY\SYSTEM
+42,c:\windows\system32\svchost.exe -k netsvcs -p -s iphlpsvc,0008EPUNE,svchost.exe,c:\windows\system32,672,NT AUTHORITY\SYSTEM
+43,C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p,0008EPUNE,svchost.exe,C:\Windows\system32,2492,NT AUTHORITY\SYSTEM
+44,C:\Windows\system32\svchost.exe -k imgsvc,0008EPUNE,svchost.exe,C:\Windows\system32,360,NT AUTHORITY\SYSTEM
+45,c:\windows\system32\svchost.exe -k localservice -p -s CDPSvc,0008EPUNE,svchost.exe,c:\windows\system32,6136,NT AUTHORITY\SYSTEM
+46,"""C:\Program Files\Common Files\McAfee\VSCore_18_6\McApExe.exe""",0008EPUNE,McApExe.exe,C:\Program Files\Common Files\McAfee\VSCore_18_6,1718,svc_cb
+47,sihost.exe,0008EPUNE,sihost.exe,c:\windows\system32,4556,NT AUTHORITY\SYSTEM
+48,"""fontdrvhost.exe""",0008EPUNE,fontdrvhost.exe,C:\Windows\system32,1348,NT AUTHORITY\SYSTEM
+50,"""C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=gpu-process --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --gpu-preferences=KAAAAAAAAACAAwBAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAACgAAAAEAAAAIAAAAAAAAAAoAAAAAAAAADAAAAAAAAAAOAAAAAAAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAA --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --service-request-channel-token=7207758415534163028 --mojo-platform-channel-handle=1472 --ignored="" --type=renderer "" /prefetch:2",0008EPUNE,opera.exe,C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52,3256,lotti.richards
+53,c:\windows\system32\svchost.exe -k netsvcs -p -s Appinfo,0008EPUNE,svchost.exe,c:\windows\system32,5584,NT AUTHORITY\SYSTEM
+54,c:\windows\system32\svchost.exe -k localservice -p -s BthAvctpSvc,0008EPUNE,svchost.exe,c:\windows\system32,3828,NT AUTHORITY\SYSTEM
+55,c:\windows\system32\svchost.exe -k netsvcs -p -s Schedule,0008EPUNE,svchost.exe,c:\windows\system32,1924,NT AUTHORITY\SYSTEM
+56,c:\windows\system32\svchost.exe -k dcomlaunch -p -s LSM,0008EPUNE,svchost.exe,c:\windows\system32,448,NT AUTHORITY\SYSTEM
+57,c:\windows\system32\svchost.exe -k localservice -p -s LicenseManager,0008EPUNE,svchost.exe,c:\windows\system32,4092,NT AUTHORITY\SYSTEM
+59,c:\windows\system32\svchost.exe -k unistacksvcgroup -s CDPUserSvc,0008EPUNE,svchost.exe,c:\windows\system32,3876,NT AUTHORITY\SYSTEM
+60,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DeviceAssociationService,0008EPUNE,svchost.exe,c:\windows\system32,1764,NT AUTHORITY\SYSTEM
+61,"""C:\Program Files\McAfee\MAT\McPvTray.exe""",0008EPUNE,McPvTray.exe,C:\Program Files\McAfee\MAT,4110,svc_cb
+62,"""C:\Users\annagra\AppData\Local\Microsoft\OneDrive\OneDrive.exe"" ",0008EPUNE,OneDrive.exe,C:\Users\annagra\AppData\Local\Microsoft\OneDrive,1952,annagra
+64,c:\windows\system32\svchost.exe -k netsvcs -p -s UserManager,0008EPUNE,svchost.exe,c:\windows\system32,3464,NT AUTHORITY\SYSTEM
+66,"""C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe""",0008EPUNE,mcshield.exe,C:\Program Files\Common Files\McAfee\AMCore,6075,svc_cb
+67,"""C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe"" -ServerName:WindowsDefaultLockScreen.AppX7y4nbzq37zn4ks9k7amqjywdat7d3j2z.mca",0008EPUNE,LockApp.exe,C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy,6276,NT AUTHORITY\SYSTEM
+69,C:\Windows\system32\lsass.exe,0008EPUNE,lsass.exe,C:\Windows\system32,4728,NT AUTHORITY\SYSTEM
+71,"""C:\Users\darc.flore1\AppData\Local\slack\app-3.1.1\slack.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=7 10 11 20 24 26 43 63 76 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=801A57F64621336F74806802DB83B30B --mojo-platform-channel-handle=1628 /prefetch:2",0008EPUNE,slack.exe,C:\Users\darc.flore1\AppData\Local\slack\app-3.1.1,3679,darc.flore1
+72,c:\windows\system32\svchost.exe -k localservice -p -s SstpSvc,0008EPUNE,svchost.exe,c:\windows\system32,776,NT AUTHORITY\SYSTEM
+74,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TabletInputService,0008EPUNE,svchost.exe,c:\windows\system32,5332,NT AUTHORITY\SYSTEM
+75,"""C:\Program Files\Common Files\mcafee\Platform\mcuicnt.exe"" ""C:\Program Files\Common Files\McAfee\ActWiz\mcactwiz.dll"" nosplash:",0008EPUNE,mcuicnt.exe,C:\Program Files\Common Files\mcafee\Platform,5709,svc_cb
+76,"""C:\Program Files\McAfee\WebAdvisor\UIHost.exe"" ",0008EPUNE,UIHost.exe,C:\Program Files\McAfee\WebAdvisor,3550,svc_cb
+77,C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p,0008EPUNE,svchost.exe,C:\Windows\system32,2508,NT AUTHORITY\SYSTEM
+79,c:\windows\system32\svchost.exe -k netsvcs -p -s Winmgmt,0008EPUNE,svchost.exe,c:\windows\system32,5388,NT AUTHORITY\SYSTEM
+80,ModuleCoreService.exe /startUserModeHosting=4_TIME_TO_DIE,0008EPUNE,ModuleCoreService.exe,c:\program files\common files\mcafee\modulecore,3885,svc_cb
+81,\??\C:\Windows\system32\conhost.exe 0x4,0008EPUNE,conhost.exe,C:\Windows\system32,5948,NT AUTHORITY\SYSTEM
+82,C:\Windows\system32\svchost.exe -k SDRSVC,0008EPUNE,svchost.exe,C:\Windows\system32,3732,NT AUTHORITY\SYSTEM
+83,c:\windows\system32\svchost.exe -k localservice -p -s WdiServiceHost,0008EPUNE,svchost.exe,c:\windows\system32,5624,NT AUTHORITY\SYSTEM
+84,C:\Windows\system32\ApplicationFrameHost.exe -Embedding,0008EPUNE,ApplicationFrameHost.exe,C:\Windows\system32,4292,NT AUTHORITY\SYSTEM
+86,C:\Windows\System32\svchost.exe -k utcsvc -p,0008EPUNE,svchost.exe,C:\Windows\System32,556,NT AUTHORITY\SYSTEM
+88,C:\Windows\system32\svchost.exe -k netsvcs -p -s wlidsvc,0008EPUNE,svchost.exe,C:\Windows\system32,2112,NT AUTHORITY\SYSTEM
+89,"""ctfmon.exe""",0008EPUNE,ctfmon.exe,C:\Windows\system32,2752,NT AUTHORITY\SYSTEM
+90,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s wscsvc,0008EPUNE,svchost.exe,c:\windows\system32,5764,NT AUTHORITY\SYSTEM
+93,c:\windows\system32\svchost.exe -k localservicenonetwork -p -s DPS,0008EPUNE,svchost.exe,c:\windows\system32,3988,NT AUTHORITY\SYSTEM
+94,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s WinHttpAutoProxySvc,0008EPUNE,svchost.exe,c:\windows\system32,1880,NT AUTHORITY\SYSTEM
+95,C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts,0008EPUNE,svchost.exe,C:\Windows\System32,4036,NT AUTHORITY\SYSTEM
+96,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s EventLog,0008EPUNE,svchost.exe,c:\windows\system32,3776,NT AUTHORITY\SYSTEM
+97,c:\windows\system32\svchost.exe -k localservice -p -s EventSystem,0008EPUNE,svchost.exe,c:\windows\system32,2348,NT AUTHORITY\SYSTEM
+98,"""C:\Program Files\McAfee\WebAdvisor\ServiceHost.exe""",0008EPUNE,ServiceHost.exe,C:\Program Files\McAfee\WebAdvisor,1430,svc_cb
+99,"""C:\Program Files\Common Files\McAfee\CSP\3.0.127.0\\McCSPServiceHost.exe""",0008EPUNE,McCSPServiceHost.exe,C:\Program Files\Common Files\McAfee\CSP\3.0.127.0,1180,svc_cb
+100,"""C:\Users\svc_cb\AppData\Local\Temp\scoped_dir9616_4071\mcafee_trial_setup_433.0207.3919_key.exe"" ",0008EPUNE,mcafee_trial_setup_433.0207.3919_key.exe,C:\Users\svc_cb\AppData\Local\Temp\scoped_dir9616_4071,4808,svc_cb
+101,c:\windows\system32\svchost.exe -k appmodel -p -s StateRepository,0008EPUNE,svchost.exe,c:\windows\system32,3232,NT AUTHORITY\SYSTEM
+102,C:\Windows\system32\svchost.exe -k DcomLaunch -p,0008EPUNE,svchost.exe,C:\Windows\system32,4364,NT AUTHORITY\SYSTEM
+105,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s SensorService,0008EPUNE,svchost.exe,c:\windows\system32,440,NT AUTHORITY\SYSTEM
+107,c:\windows\system32\svchost.exe -k netsvcs -p -s Themes,0008EPUNE,svchost.exe,c:\windows\system32,8,NT AUTHORITY\SYSTEM
+109,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s DsSvc,0008EPUNE,svchost.exe,c:\windows\system32,6308,NT AUTHORITY\SYSTEM
+110,C:\Windows\System32\WinLogon.exe -SpecialSession,0008EPUNE,WinLogon.exe,C:\Windows\System32,3956,NT AUTHORITY\SYSTEM
+111,"""C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe""",0008EPUNE,MFEAvSvc.exe,C:\Program Files\McAfee\MfeAV,2119,svc_cb
+112,"""C:\Users\darc.flore1\AppData\Local\slack\app-3.1.1\slack.exe""",0008EPUNE,slack.exe,C:\Users\darc.flore1\AppData\Local\slack\app-3.1.1,3004,darc.flore1
+118,,0008EPUNE,MsMpEng.exe,,2136,NT AUTHORITY\SYSTEM
+119,c:\windows\system32\svchost.exe -k netsvcs -p -s LanmanServer,0008EPUNE,svchost.exe,c:\windows\system32,6488,NT AUTHORITY\SYSTEM
+121,c:\windows\system32\svchost.exe -k netsvcs,0008EPUNE,svchost.exe,c:\windows\system32,364,NT AUTHORITY\SYSTEM
+122,c:\windows\system32\svchost.exe -k netsvcs -p,0008EPUNE,svchost.exe,c:\windows\system32,3452,NT AUTHORITY\SYSTEM
+123,"""C:\Users\zarwatso67\AppData\Local\GitHubDesktop\app-1.4.3\GitHubDesktop.exe"" --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=9 12 13 23 27 29 49 70 84 --disable-gl-extensions=""GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent"" --gpu-vendor-id=0x8086 --gpu-device-id=0x0a16 --gpu-driver-vendor=""Intel Corporation"" --gpu-driver-version=20.19.15.4331 --gpu-driver-date=11-18-2015 --service-request-channel-token=29571E74A71F5219E432184D13D76C95 --mojo-platform-channel-handle=1732 /prefetch:2",0008EPUNE,GitHubDesktop.exe,C:\Users\zarwatso67\AppData\Local\GitHubDesktop\app-1.4.3,3628,zarwatso67
+128,,0008EPUNE,csrss.exe,,4392,NT AUTHORITY\SYSTEM
+133,"""fontdrvhost.exe""",0008EPUNE,fontdrvhost.exe,C:\Windows\System32,5956,NT AUTHORITY\SYSTEM
+135,C:\Windows\System32\svchost.exe -k NetworkService -p -s DoSvc,0008EPUNE,svchost.exe,C:\Windows\System32,1164,NT AUTHORITY\SYSTEM
+137,,0008EPUNE,wininit.exe,,1828,NT AUTHORITY\SYSTEM
+138,c:\windows\system32\svchost.exe -k networkservice -p -s TapiSrv,0008EPUNE,svchost.exe,c:\windows\system32,2580,NT AUTHORITY\SYSTEM
+139,,0008EPUNE,Memory Compression,,6108,NT AUTHORITY\SYSTEM
+140,"""C:\Program Files (x86)\TeamViewer\TeamViewer.exe"" ",0008EPUNE,TeamViewer.exe,C:\Program Files (x86)\TeamViewer,2804,annagra
+141,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s AudioEndpointBuilder,0008EPUNE,svchost.exe,c:\windows\system32,732,NT AUTHORITY\SYSTEM
+142,"""C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe"" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",0008EPUNE,ShellExperienceHost.exe,C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy,576,NT AUTHORITY\SYSTEM
+143,"""C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe"" -ServerName:CortanaUI.AppXa50dqqa5gqv4a428c9y1jjw7m3btvepj.mca",0008EPUNE,SearchUI.exe,C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy,3644,NT AUTHORITY\SYSTEM
+144,"""C:\Program Files\Common Files\McAfee\TaskScheduler\McAMTaskAgent.exe"" -Embedding",0008EPUNE,McAMTaskAgent.exe,C:\Program Files\Common Files\McAfee\TaskScheduler,206,svc_cb
+145,,0008EPUNE,System,,6256,NT AUTHORITY\SYSTEM
+149,c:\windows\system32\svchost.exe -k networkservice -p -s LanmanWorkstation,0008EPUNE,svchost.exe,c:\windows\system32,5844,NT AUTHORITY\SYSTEM
+150,c:\windows\system32\svchost.exe -k localservicenetworkrestricted -p -s TimeBrokerSvc,0008EPUNE,svchost.exe,c:\windows\system32,3136,NT AUTHORITY\SYSTEM
+151,"""C:\Program Files\Common Files\McAfee\Platform\Core\mchost.exe"" {e05dd3fd-ba47-4235-85a5-3789db83c8e1} /pid=444",0008EPUNE,mchost.exe,C:\Program Files\Common Files\McAfee\Platform\Core,2231,svc_cb
+153,"""C:\Users\darc.flore1\AppData\Local\slack\app-3.1.1\slack.exe"" --type=renderer --disable-pinch --no-sandbox --primordial-pipe-token=B3F36050C50A99BD488162270E67D4DD --lang=en-GB --standard-schemes=slack-resources slack-sounds slack-webapp-dev --app-user-model-id=com.squirrel.slack.slack --app-path=""C:\Users\darc.flore1\AppData\Local\slack\app-3.1.1\resources\app.asar"" --node-integration=true --webview-tag=false --no-sandbox --preload=""C:\Users\darc.flore1\AppData\Local\slack\app-3.1.1\resources\app.asar\src\static\index.js"" --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0 0 3553;0 1 3553;0 2 3553;0 3 3553;0 4 3553;0 5 3553;0 6 3553;0 7 3553;0 8 3553;0 9 3553;0 10 3553;0 11 3553;0 12 3553;0 13 3553;0 14 3553;0 15 3553;0 16 3553;1 0 3553;1 1 3553;1 2 3553;1 3 3553;1 4 3553;1 5 3553;1 6 3553;1 7 3553;1 8 3553;1 9 3553;1 10 3553;1 11 3553;1 12 3553;1 13 3553;1 14 3553;1 15 3553;1 16 3553;2 0 3553;2 1 3553;2 2 3553;2 3 3553;2 4 3553;2 5 3553;2 6 3553;2 7 3553;2 8 3553;2 9 3553;2 10 3553;2 11 3553;2 12 3553;2 13 3553;2 14 3553;2 15 3553;2 16 3553;3 0 3553;3 1 3553;3 2 3553;3 3 3553;3 4 3553;3 5 3553;3 6 3553;3 7 3553;3 8 3553;3 9 3553;3 10 3553;3 11 3553;3 12 3553;3 13 3553;3 14 3553;3 15 3553;3 16 3553;4 0 3553;4 1 3553;4 2 3553;4 3 3553;4 4 3553;4 5 3553;4 6 3553;4 7 3553;4 8 3553;4 9 3553;4 10 3553;4 11 3553;4 12 3553;4 13 3553;4 14 3553;4 15 3553;4 16 3553 --service-request-channel-token=B3F36050C50A99BD488162270E67D4DD --renderer-client-id=8 --mojo-platform-channel-handle=2336 /prefetch:1",0008EPUNE,slack.exe,C:\Users\darc.flore1\AppData\Local\slack\app-3.1.1,4604,darc.flore1
+155,"""C:\Program Files (x86)\TeamViewer\tv_w32.exe"" --action hooks  --log C:\Program Files (x86)\TeamViewer\TeamViewer13_Logfile.log  ",0008EPUNE,tv_w32.exe,C:\Program Files (x86)\TeamViewer,5869,annagra
+157,c:\windows\system32\svchost.exe -k unistacksvcgroup,0008EPUNE,svchost.exe,c:\windows\system32,2328,NT AUTHORITY\SYSTEM
+158,"""C:\ProgramData\McAfee\Direct\McDiReg.exe"" ",0008EPUNE,McDiReg.exe,C:\ProgramData\McAfee\Direct,6467,svc_cb
+161,"""C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --start-maximized --ran-launcher",0008EPUNE,opera.exe,C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52,1395,lotti.richards
+165,c:\windows\system32\svchost.exe -k networkservice -p -s Dnscache,0008EPUNE,svchost.exe,c:\windows\system32,1580,NT AUTHORITY\SYSTEM
+175,C:\Windows\system32\SearchIndexer.exe /Embedding,0008EPUNE,SearchIndexer.exe,C:\Windows\system32,6012,NT AUTHORITY\SYSTEM
+179,C:\Windows\System32\spoolsv.exe,0008EPUNE,spoolsv.exe,C:\Windows\System32,1404,NT AUTHORITY\SYSTEM
+182,c:\windows\system32\svchost.exe -k netsvcs -p -s ProfSvc,0008EPUNE,svchost.exe,c:\windows\system32,4112,NT AUTHORITY\SYSTEM
+183,"""C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=16451249972883912486 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=16451249972883912486 --renderer-client-id=4 --mojo-platform-channel-handle=3140 /prefetch:1",0008EPUNE,opera.exe,C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52,2844,lotti.richards
+184,c:\windows\system32\svchost.exe -k localsystemnetworkrestricted -p -s TrkWks,0008EPUNE,svchost.exe,c:\windows\system32,3024,NT AUTHORITY\SYSTEM
+185,"""C:\Windows\system32\mspaint.exe"" ",0008EPUNE,mspaint.exe,C:\Windows\system32,5714,lotti.richards
+188,C:\Windows\Explorer.EXE,0008EPUNE,Explorer.EXE,C:\Windows,1752,NT AUTHORITY\SYSTEM
+197,c:\windows\system32\svchost.exe -k localservice -p -s WebClient,0008EPUNE,svchost.exe,c:\windows\system32,1196,NT AUTHORITY\SYSTEM
+198,c:\windows\system32\svchost.exe -k localservice -p -s nsi,0008EPUNE,svchost.exe,c:\windows\system32,856,NT AUTHORITY\SYSTEM
+206,"""C:\Program Files\Common Files\McAfee\MMSSHost\MMSSHOST.EXE"" MMSCOM homenetsvc",0008EPUNE,MMSSHOST.EXE,C:\Program Files\Common Files\McAfee\MMSSHost,3543,svc_cb
+207,C:\ProgramData\McAfee\Direct\McDiReg.exe -MONITOR_PI2 9508,0008EPUNE,McDiReg.exe,C:\ProgramData\McAfee\Direct,4672,svc_cb
+209,,0008EPUNE,SgrmBroker.exe,,2644,NT AUTHORITY\SYSTEM
+212,"""C:\Program Files\Common Files\McAfee\PEF\CORE\PEFService.exe""",0008EPUNE,PEFService.exe,C:\Program Files\Common Files\McAfee\PEF\CORE,2653,svc_cb
+216,taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E},0008EPUNE,taskhostw.exe,c:\windows\system32,1072,NT AUTHORITY\SYSTEM
+219,C:\Windows\system32\SettingSyncHost.exe -Embedding,0008EPUNE,SettingSyncHost.exe,C:\Windows\system32,4408,NT AUTHORITY\SYSTEM
+221,"""C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=6930244878569528683 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=6930244878569528683 --renderer-client-id=3 --mojo-platform-channel-handle=2904 /prefetch:1",0008EPUNE,opera.exe,C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52,4289,lotti.richards
+222,,0008EPUNE,Registry,,6028,NT AUTHORITY\SYSTEM
+228,C:\Windows\system32\BtwRSupportService.exe,0008EPUNE,BtwRSupportService.exe,C:\Windows\system32,2288,NT AUTHORITY\SYSTEM
+229,"""C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52\opera.exe"" --type=renderer --field-trial-handle=1640 14609910000652164441 9538679763400238678 131072 --service-pipe-token=12376823585177401963 --lang=en-GB --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --with-feature:installer-experiment-test=off --with-feature:installer-use-minimal-package=off --with-feature:installer-simplified-ui=on --ab_tests=DNA-70598-test:DNA-70598 --device-scale-factor=1.5 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=12376823585177401963 --renderer-client-id=7 --mojo-platform-channel-handle=2368 /prefetch:1",0008EPUNE,opera.exe,C:\Users\lotti.richards\AppData\Local\Programs\Opera\56.0.3051.52,5163,lotti.richards
+232,c:\windows\system32\svchost.exe -k netsvcs -p -s TokenBroker,0008EPUNE,svchost.exe,c:\windows\system32,768,NT AUTHORITY\SYSTEM
+233,,0008EPUNE,services.exe,,5112,NT AUTHORITY\SYSTEM
