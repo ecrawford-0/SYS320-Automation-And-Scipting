@@ -1,0 +1,23 @@
+### BEGIN sudo -S chmod +x kraken ###
+
+### END sudo -S chmod +x kraken ###
+
+### BEGIN sudo -S /home/emily.crawford/kraken --folder /usr/bin --folder  --folder /usr/sbin/   --folder /usr/local/bin  --folder /sbin  --folder /usr/local/sbin  --folder /bin ###
+
+[36mINFO[0m[0000] Looking for configuration file with name config.yaml 
+[36mINFO[0m[0000] No configuration file found, generating a default one... 
+[36mINFO[0m[0000] Loading Yara rules...                        
+[36mINFO[0m[0000] Scanning running processes...                
+[33mWARN[0m[0004] DETECTION! Malicious process detected as foundGoBinary  [33mpid[0m=3138 [33mprocess[0m=ls
+[33mWARN[0m[0005] DETECTION! Malicious process detected as foundGoBinary  [33mpid[0m=25680 [33mprocess[0m=snapd
+[36mINFO[0m[0017] Scanning autoruns...                         
+[33mWARN[0m[0017] DETECTION! Malicious autorun detected as foundGoBinary  [33mimage_path[0m=/usr/bin/snap [33mtype[0m=systemd
+[33mWARN[0m[0018] DETECTION! Malicious autorun detected as foundGoBinary  [33mimage_path[0m=/usr/bin/snap [33mtype[0m=systemd
+[36mINFO[0m[0018] Scanning the filesystem (this can take several minutes)... 
+[31mERRO[0m[0018] Some malicious artifacts have been detected on this system: 
+[31mERRO[0m[0018] Found detection for foundGoBinary            
+[31mERRO[0m[0018] Found detection for foundGoBinary            
+[31mERRO[0m[0018] Found detection for foundGoBinary            
+[31mERRO[0m[0018] Found detection for foundGoBinary            
+### END sudo -S /home/emily.crawford/kraken --folder /usr/bin --folder  --folder /usr/sbin/   --folder /usr/local/bin  --folder /sbin  --folder /usr/local/sbin  --folder /bin ###
+

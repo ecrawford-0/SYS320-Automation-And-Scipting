@@ -1,0 +1,20 @@
+### BEGIN sudo -S lsof -p3138 ###
+
+COMMAND  PID     USER   FD      TYPE DEVICE SIZE/OFF   NODE NAME
+ls      3138 p.dalton  cwd       DIR    8,1     4096 258130 /home/p.dalton/test-lk
+ls      3138 p.dalton  rtd       DIR    8,1     4096      2 /
+ls      3138 p.dalton  txt       REG    8,1  6597697 258133 /usr/local/bin/ls
+ls      3138 p.dalton  DEL       REG    8,1            3453 /usr/lib/x86_64-linux-gnu/libc-2.31.so
+ls      3138 p.dalton  DEL       REG    8,1            3466 /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+ls      3138 p.dalton  DEL       REG    8,1            3449 /usr/lib/x86_64-linux-gnu/ld-2.31.so
+ls      3138 p.dalton    0r      CHR    1,3      0t0      6 /dev/null
+ls      3138 p.dalton    1w      REG    8,1       85 258135 /home/p.dalton/test-lk/.d.log
+ls      3138 p.dalton    2w      REG    8,1       85 258135 /home/p.dalton/test-lk/.d.log
+ls      3138 p.dalton    3r      CHR    1,3      0t0      6 /dev/null
+ls      3138 p.dalton    4u      REG    8,1        4 258134 /home/p.dalton/test-lk/d.pid
+ls      3138 p.dalton    5u     IPv6  33422      0t0    TCP *:http-alt (LISTEN)
+ls      3138 p.dalton    7u  a_inode   0,14        0  10376 [eventpoll]
+ls      3138 p.dalton    8r     FIFO   0,13      0t0  33424 pipe
+ls      3138 p.dalton    9w     FIFO   0,13      0t0  33424 pipe
+### END sudo -S lsof -p3138 ###
+
