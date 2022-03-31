@@ -1,6 +1,5 @@
 <# 
     Task 1
-
     Storyline: In this task the powershell.exe was copied over and placed in the user directory. 
     Then the file was renamed, and in the console will print if the file was copied over successfully 
 #>
@@ -50,7 +49,7 @@ $msg = "If you want your files restored, please contact me at emily.crawford@mym
 
 # Create a README.READ file and save it to the desktop
 $ReadMEfile = "C:\Users\ecraw\Desktop\READme.READ"
-echo $msg | out-file -FilePath $file 
+echo $msg | out-file -FilePath $ReadMEfile
 
 
 # Check if the READme file was created, and print if the results  
