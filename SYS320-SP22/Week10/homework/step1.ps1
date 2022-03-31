@@ -15,7 +15,7 @@ $user_dir = "C:\Users\ecraw\Desktop\"
 Copy-Item $file -Destination $user_dir
 
 # create a random number 
-$rand = Get-Random -Minimum 1000 -Maximum 1999
+$rand = Get-Random -Minimum 1000 -Maximum 9876
 
 # the the location of wher the powershell file is currently stored in 
 $fileLocation = $user_dir + "powershell.exe"
